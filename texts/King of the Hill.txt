@@ -1,0 +1,590 @@
+
+
+
+
+
+                           KING OF THE HILL
+
+                            by JAMES BLISH
+
+                        Illustrated by GRIFFITH
+
+                    _A madman can be prevented from
+                   bomb-throwing--but a mad world?_
+
+           [Transcriber's Note: This etext was produced from
+               Infinity Science Fiction, November 1955.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+It did Col. Hal Gascoigne no good whatsoever to know that he was the
+only man aboard Satellite Vehicle 1. No good at all. He had stopped
+reminding himself of the fact some time back.
+
+And now, as he sat sweating in the perfectly balanced air in front of
+the bombardier board, one of the men spoke to him again:
+
+"Colonel, sir--"
+
+Gascoigne swung around in the seat, and the sergeant--Gascoigne could
+almost remember the man's name--threw him a snappy Air Force salute.
+
+"Well?"
+
+"Bomb one is primed, sir. Your orders?"
+
+"My orders?" Gascoigne said wonderingly. But the man was already
+gone. Gascoigne couldn't actually _see_ the sergeant leave the control
+cabin, but he was no longer in it.
+
+While he tried to remember, another voice rang in the cabin, as flat
+and razzy as all voices sound on an intercom.
+
+"Radar room. On target."
+
+A regular, meaningless peeping. The timing circuit had cut in.
+
+Or had it? There was nobody in the radar room. There was nobody in
+the bomb hold, either. There had never been anybody on board SV-1 but
+Gascoigne, not since he had relieved Grinnell--and Grinnell had flown
+the station up here in the first place.
+
+Then who had that sergeant been? His name was--It was--
+
+The hammering of the teletype blanked it out. The noise was as loud as
+a pom-pom in the echoing metal cave. He got up and coasted across the
+deck to the machine, gliding in the gravity-free cabin with the ease of
+a man to whom free fall is almost second nature.
+
+The teletype was silent by the time he reached it, and at first the
+tape looked blank. He wiped the sweat out of his eyes. There was the
+message.
+
+                MNBVCXZ LKJ HGFDS PYTR AOIU EUIO QPALZM
+
+He got out his copy of "The Well-Tempered Pogo" and checked the
+speeches of Grundoon the Beaver-Chile for the key letter-sequence on
+which the code was based. There weren't very many choices. He had the
+clear in ten minutes.
+
+                BOMB ONE WASHINGTON 1700 HRS TAMMANANY
+
+There it was. That was what he had been priming the bomb for. But there
+should have been earlier orders, giving him the go-ahead to prime. He
+began to rewind the paper.
+
+It was all blank.
+
+And--_Washington_? Why would the Joint Chiefs of Staff order him--
+
+"Col. Gascoigne, sir--"
+
+Gascoigne jerked around and returned the salute. "What's your name?" he
+snapped.
+
+"Sweeney, sir," the corporal said. Actually it didn't sound very much
+like Sweeney, or like anything else; it was just a noise. Yet the man's
+face looked familiar. "Ready with bomb two, sir."
+
+The corporal saluted, turned, took two steps, and faded. He did not
+vanish, but he did not go out the door, either. He simply receded,
+became darker and harder to distinguish, and was no longer there. It
+was as though he and Gascoigne had disagreed about the effects of
+perspective in the glowing Earthlight, and Gascoigne had turned out to
+be wrong.
+
+Numbly, he finished rewinding the paper. There was no doubt about it.
+There the order stood, black on yellow, as plain as plain. Bomb the
+capital of your own country at 1700 hours. Just incidentally, bomb
+your own home in the process, but don't give that a second thought. Be
+thorough, drop two bombs; don't worry about missing by a few seconds of
+arc and hitting Baltimore instead, or Silver Spring, or Milford, Del.
+CIG will give you the coordinates, but plaster the area anyhow. That's
+S.O.P.
+
+With rubbery fingers, Gascoigne began to work the keys of the teletype.
+Sending on the frequency of Civilian Intelligence Group, he typed:
+
+    HELP SHOUT SERIOUS REPEAT SERIOUS PERSONNEL TROUBLE HERE STOP DON'T
+    KNOW HOW LONG I CAN KEEP IT DOWN STOP URGENT GASCOIGNE SV ONE STOP
+
+Behind him, the oscillator peeped rhythmically, timing the drive on the
+launching rack trunnion.
+
+"Radar room. On target."
+
+Gascoigne did not turn. He sat before the bombardier board and sweated
+in the perfectly balanced air. Inside his skull, his own voice was
+shouting:
+
+STOP STOP STOP
+
+       *       *       *       *       *
+
+That, as we reconstructed it afterwards, is how the SV-1 affair began.
+It was pure luck, I suppose, that Gascoigne sent his message direct
+to us. Civilian Intelligence Group is rarely called into an emergency
+when the emergency is just being born. Usually Washington tries to do
+the bailing job first. Then, when Washington discovers that the boat is
+still sinking, it passes the bailing can to us--usually with a demand
+that we transform it into a centrifugal pump, on the double.
+
+We don't mind. Washington's failure to develop a government department
+similar in function to CIG is the reason why we're in business. The
+profits, of course, go to Affiliated Enterprises, Inc., the loose
+corporation of universities and industries which put up the money to
+build ULTIMAC--and ULTIMAC is, in turn, the reason why Washington comes
+running to CIG so often.
+
+This time, however, it did not look like the big computer was going
+to be of much use to us. I said as much to Joan Hadamard, our social
+sciences division chief, when I handed her the message.
+
+"Um," she said. "_Personnel_ trouble? What does he mean? He hasn't got
+any personnel on that station."
+
+This was no news to me. CIG provided the figures that got the SV-1 into
+its orbit in the first place, and it was on our advice that it carried
+only one man. The crew of a space vessel either has to be large or it
+has to be a lone man; there is no intermediate choice. And SV-1 wasn't
+big enough to carry a large crew--not to carry them and keep the men
+from flying at each other's throats sooner or later, that is.
+
+"He means himself," I said. "That's why I don't think this is a job
+for the computer. It's going to have to be played person-to-person.
+It's my bet that the man's responsibility-happy; that danger was always
+implicit in the one-man recommendation."
+
+"The only decent solution is a full complement," Joan agreed. "Once the
+Pentagon can get enough money from Congress to build a big station."
+
+"What puzzles me is, why did he call us instead of his superiors?"
+
+"That's easy. We process his figures. He trusts us. The Pentagon thinks
+we're infallible, and he's caught the disease from them."
+
+"That's bad," I said.
+
+"I've never denied it."
+
+"No, what I mean is that it's bad that he called us instead of going
+through channels. It means that the emergency is at least as bad as he
+says it is."
+
+I thought about it another precious moment longer while Joan did some
+quick dialing. As everybody on Earth--with the possible exception of
+a few Tibetans--already knew, the man who rode SV-1 rode with three
+hydrogen bombs immediately under his feet--bombs which he could drop
+with great precision on any spot on the Earth. Gascoigne was, in
+effect, the sum total of American foreign policy; he might as well have
+had "Spatial Supremacy" stamped on his forehead.
+
+"What does the Air Force say?" I asked Joan as she hung up.
+
+"They say they're a little worried about Gascoigne. He's a very stable
+man, but they had to let him run a month over his normal replacement
+time--why, they don't explain. He's been turning in badly garbled
+reports over the last week. They're thinking about giving him a
+dressing down."
+
+"Thinking! They'd better be careful with that stuff, or they'll hurt
+themselves. Joan, somebody's going to have to go up there. I'll arrange
+fast transportation, and tell Gascoigne that help is coming. Who should
+go?"
+
+"I don't have a recommendation," Joan said. "Better ask the computer."
+
+I did so--on the double.
+
+ULTIMAC said: _Harris_.
+
+"Good luck, Peter," Joan said calmly. Too calmly.
+
+"Yeah," I said. "Or good night."
+
+       *       *       *       *       *
+
+Exactly what I expected to happen as the ferry rocket approached SV-1,
+I don't now recall. I had decided that I couldn't carry a squad with
+me. If Gascoigne was really far gone, he wouldn't allow a group of men
+to disembark; one man, on the other hand, he might pass. But I suppose
+I did expect him to put up an argument first.
+
+Nothing happened. He did not challenge the ferry, and he didn't answer
+hails. Contact with the station was made through the radar automatics,
+and I was put off on board as routinely as though I was being let into
+a movie--but a lot more rapidly.
+
+The control room was dark and confusing, and at first I didn't see
+Gascoigne anywhere. The Earthlight coming through the observation port
+was brilliant, but beyond the edges of its path the darkness was almost
+absolute, broken only by the little stars of indicator lenses.
+
+A faint snicking sound turned my eyes in the right direction. There was
+Gascoigne. He was hunched over the bombardier board, his back to me. In
+one hand he held a small tool resembling a ticket-punch. Its jaws were
+nibbling steadily at a taut line of tape running between two spools;
+that had been the sound I'd heard. I recognized the device without any
+trouble; it was a programmer.
+
+But why hadn't Gascoigne heard me come in? I hadn't tried to sneak up
+on him, there is no quiet way to come through an airlock anyway. But
+the punch went on snicking steadily.
+
+"Col. Gascoigne," I said. There was no answer. I took a step forward.
+"Col. Gascoigne, I'm Harris of CIG. What are you doing?"
+
+The additional step did the trick. "Stay away from me," Gascoigne
+growled, from somewhere way down in his chest. "I'm programming the
+bomb. Punching in the orders myself. Can't depend on my crew. Stay
+away."
+
+"Give over for a minute, I want to talk to you."
+
+"That's a new one," said Gascoigne, not moving. "Most of you guys
+were rushing to set up launchings before you even reported to me. Who
+the hell are you, anyhow? There's nobody on board, I know _that_ well
+enough."
+
+"I'm Peter Harris," I said. "From CIG--you called us, remember? You
+asked us to send help."
+
+"Doesn't prove a thing. Tell me something I _don't_ know. Then maybe
+I'll believe you exist. Otherwise--beat it."
+
+"Nothing doing. Put down that punch."
+
+Gascoigne straightened slowly and turned to look at me. "Well, you
+don't vanish, I'll give you that," he said. "What did you say your name
+was?"
+
+"Harris. Here's my ID card."
+
+Gascoigne took the plastic-coated card tentatively, and then removed
+his glasses and polished them. The gesture itself was perfectly
+ordinary, and wouldn't have surprised me--except that Gascoigne was not
+wearing glasses.
+
+"It's hard to see in here," he complained. "Everything gets so steamed
+up. Hm. All right, you're real. What do you want?"
+
+His finger touched a journal. Silently, the tape began to roll from one
+spool to another.
+
+"Gascoigne, stop that thing. If you drop any bombs there'll be hell to
+pay. It's tense enough down below as it is. And there's no reason to
+bomb anybody."
+
+"Plenty of reason," Gascoigne muttered. He turned toward the teletype,
+exposing to me for the first time a hip holster cradling a large, black
+automatic. I didn't doubt that he could draw it with fabulous rapidity,
+and put the bullets just where he wanted them to go. "I've got orders.
+There they are. See for yourself."
+
+Cautiously, I sidled over to the teletype and looked. Except for
+Gascoigne's own message to CIG, and one from Joan Hadamard announcing
+that I was on my way, the paper was totally blank. There had been no
+other messages that day unless Gascoigne had changed the roll, and
+there was no reason why he should have. Those rolls last close to
+forever.
+
+"When did this order come in?"
+
+"This morning some time. I don't know. Sweeney!" he bawled suddenly, so
+loud that the paper tore in my hands. "When did that drop order come
+through?"
+
+Nobody answered. But Gascoigne said almost at once, "There, you heard
+him."
+
+"I didn't hear anything but you," I said, "and I'm going to stop that
+tape. Stand aside."
+
+"Not a chance, Mister," Gascoigne said grimly. "The tape rides."
+
+"Who's getting hit?"
+
+"Washington," Gascoigne said, and passed his hand over his face. He
+appeared to have forgotten the imaginary spectacles.
+
+"That's where your home is, isn't it?"
+
+"It sure is," Gascoigne said. "It sure as hell is, Mister. Cute, isn't
+it?"
+
+It was cute, all right. The Air Force boys at the Pentagon were going
+to be given about ten milliseconds to be sorry they'd refused to send
+a replacement for Gascoigne along with me. _Replace him with who? We
+can't send his second alternate in anything short of a week. The man
+has to have retraining, and the first alternate's in the hospital with
+a ruptured spleen. Besides, Gascoigne's the best man for the job; he's
+got to be bailed out somehow._
+
+Sure. With a psychological centrifugal pump, no doubt. In the meantime
+the tape kept right on running.
+
+       *       *       *       *       *
+
+"You might as well stop wiping your face, and turn down the humidity
+instead," I said. "You've already smudged your glasses again."
+
+"Glasses?" Gascoigne muttered. He moved slowly across the cabin,
+sailing upright like a sea-horse, to the blank glass of a closed port.
+I seriously doubted that he could see his reflection in it, but maybe
+he didn't really want to see it. "I messed them up, all right. Thanks."
+He went through the polishing routine again.
+
+A man who thinks he is wearing glasses also thinks he can't see without
+them. I slid to the programmer and turned off the tape. I was between
+the spools and Gascoigne now--but I couldn't stay there forever.
+
+"Let's talk a minute, Colonel," I said. "Surely it can't do any harm."
+
+Gascoigne smiled, with a sort of childish craft. "I'll talk," he said.
+"Just as soon as you start that tape again. I was watching you in the
+mirror, _before_ I took my glasses off."
+
+The liar. I hadn't made a move while he'd been looking into that
+porthole. His poor pitiful weak old rheumy eyes had seen every move I
+made while he was polishing his "glasses." I shrugged and stepped away
+from the programmer.
+
+"You start it," I said. "I won't take the responsibility."
+
+"It's orders," Gascoigne said woodenly. He started the tape running
+again. "It's their responsibility. What did you want to talk to me
+about, anyhow?"
+
+"Col. Gascoigne, have you ever killed anybody?"
+
+He looked startled. "Yes, once I did," he said, almost eagerly. "I
+crashed a plane into a house. Killed the whole family. Walked away with
+nothing worse than a burned leg--good as new after a couple of muscle
+stabilizations. That's what made me shift from piloting to weapons;
+that leg's not quite good enough to fly with any more."
+
+"Tough."
+
+He snickered suddenly, explosively. "And now look at me," he said. "I'm
+going to kill my _own_ family in a little while. And millions of other
+people. Maybe the whole world."
+
+How long was "a little while"?
+
+"What have you got against it?" I said.
+
+"Against what--the world? Nothing. Not a damn thing. Look at me: I'm
+king of the hill up here. I can't complain."
+
+He paused and licked his lips. "It was different when I was a kid,"
+he said. "Not so dull, then. In those days you could get a real
+newspaper, that you could unfold for the first time yourself, and pick
+out what you wanted to read. Not like now, when the news comes to you
+predigested on a piece of paper out of your radio. That's what's the
+matter with it, if you ask me."
+
+"What's the matter with what?"
+
+"With the news--that's why it's always bad these days. Everything's had
+something done to it. The milk is homogenized, the bread is sliced, the
+cars steer themselves, the phonographs will produce sounds no musical
+instrument could make. Too much meddling, too many people who can't
+keep their hands off things. Ever fire a kiln?"
+
+"Me?" I said, startled.
+
+"No, I didn't think so. Nobody makes pottery these days. Not by hand.
+And if they did, who'd buy it? They don't want something that's been
+made. They want something that's been Done To."
+
+The tape kept on traveling. Down below, there was a heavy rumble,
+difficult to identify specifically: something heavy being shifted on
+tracks, or maybe a freight lock opening.
+
+"So now you're going to Do Something to the Earth," I said slowly.
+
+"Not me. It's orders."
+
+"Orders from inside, Col. Gascoigne. There's nothing on the spools."
+What else could I do? I didn't have time to take him through two years
+of psychoanalysis and bring him to his own insight. Besides, I'm not
+licensed to practice medicine--not on Earth. "I didn't want to say so,
+but I have to now."
+
+"Say what?" Gascoigne said suspiciously. "That I'm crazy or something?"
+
+"No. I didn't say that. You did," I pointed out. "But I will tell you
+that that stuff about not liking the world these days is baloney. Or
+rationalization, if you want a nicer word. You're carrying a screaming
+load of guilt, Colonel, whether you're aware of it or not."
+
+"I don't know what you're talking about. Why don't you just beat it?"
+
+"No. And you know well enough. You fell all over yourself to tell me
+about the family you killed in your flying accident." I gave him ten
+seconds of silence, and then shot the question at him as hard as I
+could. "_What was their name?_"
+
+"How do I know? Sweeney or something. Anything. I don't remember."
+
+"Sure you do. Do you think that killing your own family is going to
+bring the Sweeneys back to life?"
+
+Gascoigne's mouth twisted, but he seemed to be entirely unaware of the
+grimace. "That's all hogwash," he said. "I never did hold with that
+psychological claptrap. It's you that's handing out the baloney, not
+me."
+
+"Then why are you being so vituperative about it? Hogwash, claptrap,
+baloney--you are working awfully hard to knock it down, for a man who
+doesn't believe in it."
+
+"Go away," he said sullenly. "I've got my orders. I'm obeying them."
+
+Stalemate. But there was no such thing as stalemate up here. Defeat was
+the word.
+
+       *       *       *       *       *
+
+The tape traveled. I did not know what to do. The last bomb problem CIG
+had tackled had been one we had set up ourselves; we had arranged for a
+dud to be dropped in New York harbor, to test our own facilities for
+speed in determining the nature of the missile. The situation on board
+SV-1 was completely different--
+
+Whoa. Was it? Maybe I'd hit something there.
+
+"Col. Gascoigne," I said slowly, "you might as well know now that it
+isn't going to work. Not even if you do get that bomb off."
+
+"Yes, I can. What's to stop me?" He hooked one thumb in his belt, just
+above the holster, so that his fingertips rested on the breech of the
+automatic.
+
+"Your bombs. They aren't alive."
+
+Gascoigne laughed harshly and waved at the controls. "Tell that to the
+counter in the bomb hold. Go ahead. There's a meter you can read, right
+there on the bombardier board."
+
+"Sure," I said. "The bombs are radioactive, all right. Have you ever
+checked their half-life?"
+
+It was a long shot. Gascoigne was a weapons man; if it were possible
+to check half-life on board the SV-1, he would have checked it. But I
+didn't think it was possible.
+
+"What would I do that for?"
+
+"You wouldn't, being a loyal airman. You believe what your superiors
+tell you. But I'm a civilian, Colonel. There's no element in those
+bombs that will either fuse or fission. The half-life is too long for
+tritium or for lithium^6, and it's too short for uranium^{235} or
+radio-thorium. The stuff is probably strontium^{90}--in short, nothing
+but a bluff."
+
+"By the time I finished checking that," Gascoigne said, "the bomb would
+be launched anyhow. And you haven't checked it, either. Try another
+tack."
+
+"I don't need to. You don't have to believe me. We'll just sit here and
+wait for the bomb drop, and then the point will prove itself. After
+that, of course, you'll be court-martialed for firing a wild shot
+without orders. But since you're prepared to wipe out your own family,
+you won't mind a little thing like twenty years in the guardhouse."
+
+Gascoigne looked at the silently rolling tape. "Sure," he said. "I've
+got the orders, anyhow. The same thing would happen if I didn't obey
+them. If nobody gets hurt, so much the better."
+
+A sudden spasm of emotion--I took it to be grief, but I could have been
+wrong--shook his whole frame for a moment. Again, he did not seem to
+notice it. I said:
+
+"That's right. Not even your family. Of course the whole world will
+know the station's a bluff, but if those are the orders--"
+
+"I don't know," Gascoigne said harshly. "I don't know whether I even
+got any orders. I don't remember where I put them. Maybe they're not
+real." He looked at me confusedly, and his expression was frighteningly
+like that of a small boy making a confession.
+
+"You know something?" he said. "I don't know what's real any more. I
+haven't been able to tell, ever since yesterday. I don't even know if
+you are real, or your ID card either. What do you think of that?"
+
+"Nothing," I said.
+
+"Nothing? Nothing! That's my trouble. Nothing! I can't tell what's
+nothing and what's something. You say the bombs are duds. All right.
+But what if _you're_ the dud, and the bombs are real? Answer me that!"
+
+His expression was almost triumphant now.
+
+"The bombs are duds," I said. "And you've gone and steamed up your
+glasses again. Why don't you turn down the humidity, so you can see for
+three minutes and running?"
+
+Gascoigne leaned far forward, so far that he was perilously close to
+toppling, and peered directly into my face.
+
+"Don't give me that," he said hoarsely. "Don't--give--me--that--stuff."
+
+I froze right where I was. Gascoigne watched my eyes for a while. Then,
+slowly, he put his hand on his forehead and began to wipe it downward.
+He smeared it over his face, in slow motion, all the way down to his
+chin.
+
+Then he took the hand away and looked at it, as though it had just
+strangled him and he couldn't understand why. And finally he spoke.
+
+"It--isn't true," he said dully. "I'm not wearing any glasses. Haven't
+worn glasses since I was ten. Not since I broke my last pair--playing
+King of the Hill."
+
+He sat down before the bombardier board and put his head in his hands.
+
+"You win," he said hoarsely. "I must be crazy as a loon. I don't know
+what I'm seeing and what I'm not. You better take this gun away. If I
+fired it I might even hit something."
+
+"You're all right," I said. And I meant it; but I didn't waste any time
+all the same. The automatic first; then the tape. In that order, the
+sequence couldn't be reversed afterwards.
+
+But the sound of the programmer's journal clicking to "Off" was as loud
+in that cabin as any gunshot.
+
+       *       *       *       *       *
+
+"He'll be all right," I told Joan afterwards. "He pulled himself
+through. I wouldn't have dared to throw it at any other man that
+fast--but he's got guts."
+
+"Just the same," Joan said, "they'd better start rotating the station
+captains faster. The next man may not be so tough--and what if _he's_ a
+sleepwalker?"
+
+I didn't say anything. I'd had my share of worries for that week.
+
+"You did a whale of a job yourself, Peter," Joan said. "I just wish we
+could bank it in the machine. We might need the data later."
+
+"Well, why can't we?"
+
+"The Joint Chiefs of Staff say no. They don't say why. But they don't
+want any part of it recorded in ULTIMAC--or anywhere else."
+
+I stared at her. At first it didn't seem to make sense. And then it
+did--and that was worse.
+
+"Wait a minute," I said. "Joan--does that mean what I think it means?
+Is 'Spatial Supremacy' just as bankrupt as 'Massive Retaliation' was?
+Is it possible that the satellite--and the bombs.... Is it possible
+that I was telling Gascoigne the truth about the bombs being duds?"
+
+Joan shrugged.
+
+"He that darkeneth counsel without wisdom," she said, "isn't earning
+his salary."
