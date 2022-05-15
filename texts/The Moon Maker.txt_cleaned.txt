@@ -1,53 +1,3 @@
-
-
-
-
-                            The MOON MAKER
-
-                             ARTHUR TRAIN
-                                  and
-                            ROBERT W. WOOD
-
-                 Illustrated by Frank D. McSherry, Jr.
-
-                                 1958
-
-                                KRUEGER
-                           HAMBURG, NEW YORK
-
-                            THE MOON MAKER
-                 Copyright 1958 by Kenneth J. Krueger.
-                         All Rights Reserved.
-
-      [Transcriber's Note: Extensive research did not uncover any
-  evidence that the U.S. copyright on this publication was renewed.]
-
-                    Edition Limited to 500 Copies.
-
-                           A DAWN PRESS BOOK
-
-
-
-
-                               Contents
-
-
-                    PART I: THE WANDERING ASTEROID
-
-                    PART II: THE FLYING RING
-
-                    PART III: THE FLIGHT OF THE RING
-
-                    PART IV: ON THE MOON
-
-                    PART V: THE ATTACK ON THE ASTEROID
-
-
-
-
-                            THE MOON MAKER
-
-
 When the world-war was at its height, wireless messages signed
 with the name "Pax" had been received at the Naval Observatory at
 Washington, in which the sender declared himself capable of controlling
@@ -78,12 +28,9 @@ mastering its mechanism and starting in it for the United States.
 
 
 
-                                PART I
-
-                        THE WANDERING ASTEROID
 
 
-                                   I
+
 
 "Now," said Bentham T. Tassifer, with an air of defiance, "we'll see!"
 He was a bandy-legged little man, whose abdominal structure suggested a
@@ -136,7 +83,6 @@ instant.
 "It's like a doughnut--round with a hole in the middle!" cried Bentham.
 "I believe that fellow intends to land here. What impudence!"
 
-By this time, both of them could see plainly the details of the machine
 which, constructed apparently of polished steel, flashed dizzily in
 the sunlight as it shot over the golf-course. It was evidently a
 hollow cylinder shaped like an anchor-ring or life-preserver, about
@@ -214,7 +160,6 @@ hours. Simply _had_ to land on your course--nowhere else! You couldn't
 let me have a cigarette, could you?"
 
 
-                                  II
 
 The morning after the successful descent of the Flying Ring among the
 bunkers and hazards of the golf-course of the Chevy Chase Club, at
@@ -247,7 +192,6 @@ Library to prepare his statement for the Smithsonian Institution, and,
 having rented a hall bedroom in a quiet lodging-house on H Street,
 resumed the unpretentious existence of a scientific investigator.
 
-By arrangement with the government, the Flying Ring was moved to a
 large aerodrome beyond the city, where its mysteries were protected
 from public curiosity by a steel fence, thirty feet high, outside
 which, both by day and night, armed guards were constantly on patrol.
@@ -366,7 +310,6 @@ too, arose and walked briskly away, as if she knew exactly where she
 was going--which she did.
 
 
-                                  III
 
 He was fifteen minutes late to lunch, and the other boarders had
 made way with everything on the table except a single chop and a few
@@ -385,7 +328,6 @@ occupied the room below was ready to scream with nerves. As however,
 she was waiting for a man to come and take her out walking, she was
 obliged to possess her soul and feet in patience.
 
-       *       *       *       *       *
 
 "I ought to have let that young woman finish up this calculation for
 me." Hooker at last conceded to the face in the glass. "I can't handle
@@ -410,13 +352,12 @@ its columns were replete meant nothing to him. Disgustedly he folded
 over the newspaper and ran his eye down the miscellaneous foreign-news
 items. An obscure paragraph caught his eye.
 
-                             THE NEW COMET
 
-    Geneva, Switzerland--The officials of the observatory here have
-    just published the corrected elements of the orbit of the new
-    comet reported by Battelli last month. They predict that this new
-    intruder into the solar system will be of unusual brilliancy,
-    probably surpassing that of the Great Comet of 1811.
+Geneva, Switzerland--The officials of the observatory here have
+just published the corrected elements of the orbit of the new
+comet reported by Battelli last month. They predict that this new
+intruder into the solar system will be of unusual brilliancy,
+probably surpassing that of the Great Comet of 1811.
 
 Here was something worth while--something directly pertaining to
 Professor Hooker's bailiwick. Comets were his specialty. He had a
@@ -527,7 +468,6 @@ Thornton's eye twinkled.
 "His name," he said, "is Miss Rhoda Gibbs."
 
 
-                                  IV
 
 Professor Bennie Hooker arose next morning and got on line in company
 with Mrs. Mullins' other boarders for his bath in the tin tub just as
@@ -681,7 +621,6 @@ Bennie took a long pull on his pipe.
 whimsically.
 
 
-                                   V
 
 There was soon no doubt regarding Thornton's prediction. Careful
 observation, supplemented by independent calculations, demonstrated
@@ -689,7 +628,6 @@ beyond peradventure that the asteroid Medusa would certainly pass
 through the head of the comet, which now blazed nightly in the sky like
 the beam of a huge search-light. Never had such a meteor been known
 before, for it surpassed in brilliancy and size the famous comet of
-1811. All night long the streets of every American city were filled
 with crowds of people watching the huge fire-ball, the diameter of
 which appeared to the terrestrial observer to be nearly half that of
 the moon itself. From the dawn of time these dragons of the sky have
@@ -701,7 +639,6 @@ have sought to read upon the scroll of the heavens the tracings of
 the hand of Fate. And so the boulevards of the capital swarmed with
 thousands of people, who gazed in silence at this monster of the sky.
 Unlike the Chinese, who endeavor to scare away such celestial demons
-by exploding firecrackers and making all the noise humanly possible,
 these Occidental multitudes viewed the comet in solemn if not religious
 awe, realizing poignantly, for the first time, that our universe is
 not protected from attack by wandering celestial bodies. Had a hostile
@@ -727,7 +664,6 @@ salvation-hymns, filled the air, for there, at least, the conviction
 prevailed that the day of Judgment was at hand, and that the sheep were
 at last to be definitely separated from the goats.
 
-       *       *       *       *       *
 
 Four days after the meeting of comet and asteroid, which was duly
 reported by observing astronomers, newsboys were again crying, "Extra!"
@@ -735,47 +671,43 @@ in the streets of Washington. An evening paper had been made the
 recipient of the following, the result of calculation on the part of
 Thornton:
 
-                       EARTH TO BE ANNIHILATED!
 
-             ASTEROID "MEDUSA" WILL TORPEDO OUR PLANET ON
-              APRIL 22. CATACLYSM NOW ABSOLUTELY CERTAIN
 
-    It is announced positively by the officials of the National
-    Observatory that the asteroid Medusa, having been arrested in its
-    orbit by its collision with the comet, is now plunging toward the
-    sun with an increasing hourly acceleration and will undoubtedly hit
-    the earth in less than five months from to-day. Calculations have
-    shown that the point of impact will be in Mexico on the line of
-    latitude passing through Tampico, though it is possible that the
-    body may fall in the Pacific if the time of arrival is a little
-    later than that predicted, or in the gulf of Mexico, if earlier.
-    The opinions held by the leading scientific men of the country as
-    to the immediate effects of the collision differ in the extreme.
-    Some consider that, aside from earthquakes, tidal waves and
-    considerable atmospheric disturbances, the destructive effects will
-    be confined to an area of not more than three or four hundred miles
-    radius. Others believe, however, that the concussion will destroy
-    all life over the greater part of two Americas, and that the
-    "splash" of the asteroid will bury the United States under a layer
-    of fused rock, broken stones, dust, and mud to a depth varying from
-    several miles in Texas to several feet in Maine and Oregon. All
-    agree, however, in the belief that every building in the United
-    States will be razed to the ground by the shock, and that the
-    atmospheric disturbances will be such as to render the loss of life
-    enormous over the entire continent.
+It is announced positively by the officials of the National
+Observatory that the asteroid Medusa, having been arrested in its
+orbit by its collision with the comet, is now plunging toward the
+sun with an increasing hourly acceleration and will undoubtedly hit
+the earth in less than five months from to-day. Calculations have
+shown that the point of impact will be in Mexico on the line of
+latitude passing through Tampico, though it is possible that the
+body may fall in the Pacific if the time of arrival is a little
+later than that predicted, or in the gulf of Mexico, if earlier.
+The opinions held by the leading scientific men of the country as
+to the immediate effects of the collision differ in the extreme.
+Some consider that, aside from earthquakes, tidal waves and
+considerable atmospheric disturbances, the destructive effects will
+be confined to an area of not more than three or four hundred miles
+radius. Others believe, however, that the concussion will destroy
+all life over the greater part of two Americas, and that the
+"splash" of the asteroid will bury the United States under a layer
+of fused rock, broken stones, dust, and mud to a depth varying from
+several miles in Texas to several feet in Maine and Oregon. All
+agree, however, in the belief that every building in the United
+States will be razed to the ground by the shock, and that the
+atmospheric disturbances will be such as to render the loss of life
+enormous over the entire continent.
 
-    The most extreme view is that taken by Professor Katz, of Columbia,
-    who asserts that the impact will reduce our globe to powder. His
-    colleague, Professor Smithers, claims that that part of the earth's
-    surface subjected to the blow will be entirely fused and vaporized,
-    while other scientists believe that the concurrent earthquake shock
-    will travel completely around the earth and destroy all life upon
-    both hemispheres. All agree that, if nothing worse occurs, the vast
-    bulk of the asteroid will penetrate the film of the earth's surface
-    for several hundred miles, the globe's diurnal rotation will be
-    affected, the shape will be changed, and its orbit around the sun
-    will be altered. Ultimate consequences cannot be predicted but
-    THE END OF THE WORLD IS AT HAND!
+The most extreme view is that taken by Professor Katz, of Columbia,
+who asserts that the impact will reduce our globe to powder. His
+colleague, Professor Smithers, claims that that part of the earth's
+surface subjected to the blow will be entirely fused and vaporized,
+while other scientists believe that the concurrent earthquake shock
+will travel completely around the earth and destroy all life upon
+both hemispheres. All agree that, if nothing worse occurs, the vast
+bulk of the asteroid will penetrate the film of the earth's surface
+for several hundred miles, the globe's diurnal rotation will be
+affected, the shape will be changed, and its orbit around the sun
+will be altered. Ultimate consequences cannot be predicted but
 
 The civilized world received the astounding news of the pending
 annihilation of the earth, first, with the amused silence of
@@ -787,7 +719,6 @@ infinities, resolutely declined to accept any proposition outside the
 history of man's experience. Since that moment when the human race in
 the course of evolution, had appeared upon the face of our planet, the
 latter's orbit through space had never been attacked or even affected
-by any other celestial body, and since the earth had spun for countless
 millions of years in its regular course about the center of the solar
 system, and summer had inevitably followed winter, and men had been
 born, made love, fought, and died, no one was ready at first to accept
@@ -855,12 +786,9 @@ tend to assuage the universal terror in the slightest.
 
 
 
-                                PART II
-
-                            THE FLYING RING
 
 
-                                   I
+
 
 Bentham T. Tassifer had had a very hard day indeed. He had discovered,
 to his disgust, that fear is a great leveler, and that the professional
@@ -987,7 +915,6 @@ arrange it. Will you go with me?"
 "Y-e-e-s," admitted Mr. Tassifer.
 
 
-                                  II
 
 While it was quite true that the "big fellows" at the Cosmos Club
 and elsewhere took little stock in Hooker, and the public at large
@@ -1089,7 +1016,6 @@ cylinder composed of a yellowish white metal, the open end of which was
 closed by a plate of some transparent substance. This cylinder, from
 which the disintegrating ray was discharged, pointed downward, and was
 held in such a manner that it could be swung or aimed in any direction
-by means of an electric motor operated from inside the chart-room.
 
 Rhoda eagerly examined all the appliances as Bennie described them in
 turn, and then followed her host into the adjacent control-room of the
@@ -1251,7 +1177,6 @@ Bennie. "I'm in here looking at the electric stove--such a funny little
 thing!"
 
 
-                                  III
 
 As the date set for the departure of the Flying Ring on its amazing
 venture drew near, a furious controversy arose in the newspapers as
@@ -1319,7 +1244,6 @@ event had really occurred, only nobody had known about it. They nodded
 their heads, averring that it would be the same way with this asteroid
 business that everybody was shouting about. Anyhow, there was no use
 worrying yet a while. But, in spite of these octogenarian wiseacres,
-by the first of April, the population of Canada had increased, at the
 expense of the United States, by twenty million people, and, as the
 weeks passed and the new green star burned brighter every night, people
 began to ask why something was not done--why the Ring did not start
@@ -1330,7 +1254,6 @@ quietly and calmly went about his work, with no thought of posing as a
 modern Perseus about to attack and slay a fiery Medusa.
 
 
-                                  IV
 
 At last, the great day--the greatest day in the scientific history of
 mankind--dawned clear and still. Not a cloud broke the calm continuity
@@ -1364,7 +1287,6 @@ persons.
 These remained, patiently waiting for that sight which no more than
 half a dozen pairs of eyes had ever seen before. At eight o'clock,
 a heavy limousine pushed its way through the crowd, was admitted
-by the guards, and rumbled its way across the field to the foot of
 the landing-ladder below the great cylinder, and from it emerged
 President Thomas, of the National Institute; Professor Evarts, of
 the Observatory, Mr. and Mrs. Bentham T. Tassifer, and their niece,
@@ -1448,7 +1370,6 @@ communicated with the condenser-room.
 "All right, Atterbury!" he called sharply. "Turn her loose!"
 
 
-                                   V
 
 The gate of the entanglement opened just enough to permit the exit of
 the motor bearing the irate Tassifers, and was instantly closed behind
@@ -1541,7 +1462,6 @@ Suddenly Mrs. Tassifer's face appeared in the aperture below.
 "What do you suppose has become of Rhoda?" she inquired.
 
 
-                                  VI
 
 Less than a mile away, Professor Thornton stood at his window in the
 observatory watching for the burst of light which, if it came, would
@@ -1653,12 +1573,9 @@ Medusa.
 
 
 
-                               PART III
-
-                        THE FLIGHT OF THE RING
 
 
-                                   I
+
 
 "Turn her loose!" repeated Hooker, and stepped swiftly to the nearest
 port-hole, while Rhoda, lying in her place of concealment behind
@@ -2012,7 +1929,6 @@ with a pale-gray, ashen phosphorescence, through which they could
 eventually discern the outlines of the continents of North and South
 America. This huge circular disk, which blotted out so much of the
 night below them, was naught but the dark side of the earth illumined
-by the light of the moon alone.
 
 For many minutes, they gazed in silent wonder at the distant globe. No
 sound, no movement suggested the fact that they were flying through
@@ -2307,7 +2223,6 @@ nearly thirty years--had photographed it, drawn pictures of it,
 made calculations about it, and read all sorts of fanciful yarns
 concerning it and its imaginary inhabitants. She really knew a good
 deal about it and could call some of its mountains and dried-up seas
-by name--Copernicus, for instance, and Tycho--but she had never taken
 it seriously--had regarded it rather as a sort of stage-setting for
 the earth. Thus, when Bennie proposed, almost casually, to set foot on
 what had hitherto been nothing more than an abstraction or figure of
@@ -2503,12 +2418,9 @@ comparatively slight. Burke touched his forelock.
 
 
 
-                                PART IV
-
-                              ON THE MOON
 
 
-                                   I
+
 
 "We have arrove! All out for the moon!" repeated Burke, the would-be
 humorist. "Get ready for the quarantine officer!"
@@ -2517,7 +2429,6 @@ They all looked at one another incredulously. Save for the jar and the
 thunder of the blow when the Ring struck the moon's surface, there was
 nothing to suggest or indicate that they were not still moving through
 space, except the minor facts that the port-holes were curtained
-by a sitting cloud of white dust and that the deadlight was totally
 obscured. There was no motion now, but there had been no motion before.
 Their journey had been very much like that entertaining side-show
 at Coney Island, where the passengers on an imitation ship gain a
@@ -2741,7 +2652,6 @@ to utilize the time while the men were at work in trying to get a
 photograph of the moon's most superb natural feature.
 
 
-                                  II
 
 The reader may recall that, at the moment of the departure of the Ring
 upon the preceding evening from the aerodrome at Georgetown, Bentham T.
@@ -2852,7 +2762,6 @@ let--bats in her belfry--balmy on the crumpet. And now she's proved it!
 I'm glad she isn't _my_ niece! All right, driver; you may start along."
 
 
-                                  III
 
 Two hundred and forty thousand miles away, Rhoda, descending to the
 lunar plain, strode rapidly in the direction of the ridge behind which
@@ -2863,7 +2772,6 @@ her path, she discovered that the peak which she had climbed was no
 longer visible and that she had lost all sense of direction. To the
 north, to be sure, her passage was barred, but there was nothing to
 indicate whether the Ring lay in any one of three directions. Puzzled
-by the disappearance of the peak, she sprang blindly across the plain,
 running back on what she fancied was the right course. But the Ring was
 nowhere to be seen! It had vanished absolutely. And then she recalled
 the fact that Bennie had told her that the supply of liquid air carried
@@ -3090,12 +2998,9 @@ either!"
 
 
 
-                                PART V
-
-                      THE ATTACK ON THE ASTEROID
 
 
-                                   I
+
 
 "It's time we were off," announced Bennie presently, glancing at his
 watch. "We've been here over two hours, and Medusa is coming on fast."
@@ -3156,7 +3061,6 @@ some care, for the atmospheric valve, which controlled the angle of the
 helium blast and insured the horizontal flight of the Ring at a fixed
 elevation over the surface of the earth, could not be used over the
 moon, devoid as it was of atmosphere. Everything had to be controlled
-by hand, as in the case of the first aeroplanes.
 
 "Better keep her rising a little all the time," directed Bennie,
 watching a crater intently. "We can't judge our elevation when we get
@@ -3196,7 +3100,6 @@ with sunlight, which came in through the side deadlight.
 "Bother it all!" cried Bennie. "One can't see anything in this glare."
 He pressed his face against the glass in the floor and shielded his
 eyes with his hands. "One might be able to see something of the surface
-by starlight."
 
 "Wait a minute!" said Rhoda. "I'll get a black cloth to throw over your
 head."
@@ -3263,7 +3166,6 @@ joined Rhoda at the deadlight. Medusa was now about the size of the
 full moon as seen from the earth, while the real moon had shrunk away
 until it was apparently about the size of the earth itself. Through the
 windows they could see sun, moon, and earth, all at once, surrounded
-by millions of constellated stars against a background of darkness.
 Beneath them hung Medusa--the sidereal battle-ship which they hoped to
 torpedo--not more than twelve hundred miles away!
 
@@ -3430,7 +3332,6 @@ presently the last one passed, and they breathed freely again. They had
 escaped. Their work was done. The earth was saved. They could return.
 
 
-                                  II
 
 "They could return." How easy to say the words--as easy as it had been
 to fly off by means of their radioactive power from the surface of
@@ -3573,7 +3474,6 @@ who had left his post.
 "He's going to wireless them not to be afraid. They're precious near a
 panic down there," explained Bennie.
 
-By the time the aviator reappeared, the steamer was four or five miles
 behind them.
 
 "That's the Saxonia," he told them. "Captain says they recognized us,
@@ -3665,27 +3565,27 @@ And when he shook his head, she quoted from Stephen Phillips'
 masterpiece the wonderful declaration of Apollo in answer to the wish
 of his earth-love when she said,
 
-      ... "Fain would I know
-    Yon heavenly wafting through the heaven wide,
-    And the large view of the subjected seas,
-    And famous cities, and the various toil of men."
+... "Fain would I know
+Yon heavenly wafting through the heaven wide,
+And the large view of the subjected seas,
+And famous cities, and the various toil of men."
 
-    ..........
+..........
 
-    "And I will carry thee above the world,
-    To share my ecstasy of flinging beams,
-    And scattering without intermission joy.
-    And thou shall know the first leap of the sea
-    Toward me; the grateful upward look of earth,
-    Emerging roseate from her bath of dew--
-    We two in heaven dancing. Babylon
-    Shall flash and murmur, and cry from under us.
-    And Nineveh catch fire, and at our feet
-    Be hurled with her inhabitants, and all
-    Adoring Asia kindle and hugely bloom--
-    We two in heaven running--continents
-    Shall lighten, ocean unto ocean flash,
-    And rapidly laugh till all this world is warm."
+"And I will carry thee above the world,
+To share my ecstasy of flinging beams,
+And scattering without intermission joy.
+And thou shall know the first leap of the sea
+Toward me; the grateful upward look of earth,
+Emerging roseate from her bath of dew--
+We two in heaven dancing. Babylon
+Shall flash and murmur, and cry from under us.
+And Nineveh catch fire, and at our feet
+Be hurled with her inhabitants, and all
+Adoring Asia kindle and hugely bloom--
+We two in heaven running--continents
+Shall lighten, ocean unto ocean flash,
+And rapidly laugh till all this world is warm."
 
 Bennie listened, as Rhoda spoke the lines, spellbound at the poet's
 imagination.
@@ -3694,7 +3594,6 @@ imagination.
 actually _doing it_!"
 
 
-                                  III
 
 Bentham T. Tassifer had paused, as usual, at the Metropolitan Club,
 on his way home from the Department of Justice, and, as a natural
@@ -3747,45 +3646,42 @@ Tassifer grabbed the paper quickly out of his hand.
 
 He read:
 
-                      EXTRA--Four O'Clock--EXTRA!
+EXTRA--Four O'Clock--EXTRA!
 
-             COLLISION BETWEEN ASTEROID AND EARTH AVERTED!
 
-                PROBABLE SUCCESS OF HOOKER EXPEDITION!
 
-                       MEDUSA NOW OUR SATELLITE!
 
-    There is every reason to believe that Professor Benjamin Hooker
-    and his daring companions have achieved their stupendous object of
-    diverting the falling asteroid from its course toward the earth,
-    and have thus saved the human race from destruction. Professor
-    Thornton, of the National Observatory, announced the receipt,
-    early this morning, of a cable-despatch from an amateur astronomer
-    at Honolulu, stating that, about ten hours after the time set for
-    the departure of the Hooker Expedition in the Flying Ring, he
-    suddenly observed a yellow glow surrounding the asteroid Medusa.
-    This glow increased in volume and intensity for perhaps five
-    minutes, and then as suddenly ceased, drawing away from the planet
-    like a puff of smoke. No trace of the phenomenon was observed
-    either at the Lick Observatory or in the great one-hundred-inch
-    telescope at Mount Wilson, near Pasadena, the unfavorable position
-    of the asteroid, low down in the western sky, probably accounting
-    for this. All other observatories of note were on the daylight side
-    of the earth at the time.
+There is every reason to believe that Professor Benjamin Hooker
+and his daring companions have achieved their stupendous object of
+diverting the falling asteroid from its course toward the earth,
+and have thus saved the human race from destruction. Professor
+Thornton, of the National Observatory, announced the receipt,
+early this morning, of a cable-despatch from an amateur astronomer
+at Honolulu, stating that, about ten hours after the time set for
+the departure of the Hooker Expedition in the Flying Ring, he
+suddenly observed a yellow glow surrounding the asteroid Medusa.
+This glow increased in volume and intensity for perhaps five
+minutes, and then as suddenly ceased, drawing away from the planet
+like a puff of smoke. No trace of the phenomenon was observed
+either at the Lick Observatory or in the great one-hundred-inch
+telescope at Mount Wilson, near Pasadena, the unfavorable position
+of the asteroid, low down in the western sky, probably accounting
+for this. All other observatories of note were on the daylight side
+of the earth at the time.
 
-    Professor Thornton further announces, however, that the
-    observations upon Medusa's position which were made last night at
-    the various European observatories show conclusively that the path
-    of the asteroid has been changed and its flight toward the sun
-    checked. It is now moving in an elliptical orbit around the earth,
-    with a period of approximately four months and twelve days. The
-    astronomer states that, at the time of the asteroid's nearest
-    approach to us, it will be a conspicuous object--its apparent
-    diameter being nearly one-half that of the moon. Professor Hooker
-    and his associates have thus not only averted the impending
-    catastrophe but have presented the earth with a new moon as a
-    lasting monument to the boldest enterprise ever conceived by the
-    human brain.
+Professor Thornton further announces, however, that the
+observations upon Medusa's position which were made last night at
+the various European observatories show conclusively that the path
+of the asteroid has been changed and its flight toward the sun
+checked. It is now moving in an elliptical orbit around the earth,
+with a period of approximately four months and twelve days. The
+astronomer states that, at the time of the asteroid's nearest
+approach to us, it will be a conspicuous object--its apparent
+diameter being nearly one-half that of the moon. Professor Hooker
+and his associates have thus not only averted the impending
+catastrophe but have presented the earth with a new moon as a
+lasting monument to the boldest enterprise ever conceived by the
+human brain.
 
 There were several columns more, but Bentham did not proceed further.
 
@@ -3884,7 +3780,6 @@ Judson grabbed Tassifer by the arm, and they hastened cheerfully along
 with the crowd.
 
 
-                                  IV
 
 At the moment her husband thus undignifiedly surrendered to mob
 psychology, Mrs. Bentham T. Tassifer was taking her Saturday-afternoon
@@ -3909,7 +3804,6 @@ nail-brush."
 
 "I'm going to get married," replied Rhoda. "Please hand me my things."
 
-       *       *       *       *       *
 
 There were but two passengers to come down the gangplank when the
 Washington boat docked the next morning at Old Point Comfort. Trade had
@@ -4070,52 +3964,3 @@ half-size, for the children."
 "And not such a bad little moon at that," added Bennie.
 
 "Our honeymoon," whispered Rhoda. "Goodnight, Mr. Diggs."
-
-
-THE END
-
-       *       *       *       *       *
-
-
-
-                            THE MOON MAKER
-
-                   _Arthur Train and Robert W. Wood_
-
-_On the front cover:_ Professor Hooker watches the Earth rise as he
-stands on the Moon!
-
-_On the back cover:_ The destruction of the asteroid; Medusa!
-
-       *       *       *       *       *
-
-These are just two of the many memorable scenes of fantastic adventure
-in this thrilling classic of science fiction.
-
-A masterpiece of suspense as a giant asteroid hurtles thru space
-towards Earth, and man must make his first trip into space to save his
-planet!
-
-                   _Edition limited to 500 copies!_
-
-                                 $3.00
-
-_Other fantasy and science-fiction published in limited editions are:_
-
-FOOD FOR DEMONS by E. Everett Evans. Nine stories of vampires and
-kindred souls. $3.00
-
-THE MOTIVE KEY by Jack Woodford. A long novel of terror and suspense!
-$2.00
-
-THE DREAM QUEST OF UNKNOWN KADATH by H. P. Lovecraft. $1.25
-
-THE MAKER OF MOONS by Robert W. Chambers $1.00
-
-LOOK BEHIND YOU! by Arthur J. Burks $1.00
-
-THE FEMALE DEMON by William McDougle $1.25
-
-                 _From your bookstore; or direct from_
-
-     _FRAN and KEN KRUEGER 332 So. Abbott Road Hamburg, New York_

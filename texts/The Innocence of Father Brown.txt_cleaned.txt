@@ -1,33 +1,3 @@
-
-
-
-
-THE INNOCENCE OF FATHER BROWN
-
-By G. K. Chesterton
-
-                  Contents
-
-
-                  The Blue Cross
-                  The Secret Garden
-                  The Queer Feet
-                  The Flying Stars
-                  The Invisible Man
-                  The Honour of Israel Gow
-                  The Wrong Shape
-                  The Sins of Prince Saradine
-                  The Hammer of God
-                  The Eye of Apollo
-                  The Sign of the Broken Sword
-                  The Three Tools of Death
-
-
-
-
-
-The Blue Cross
-
 Between the silver ribbon of morning and the green glittering ribbon of
 sea, the boat touched Harwich and let loose a swarm of folk like flies,
 among whom the man we must follow was by no means conspicuous--nor
@@ -113,7 +83,7 @@ umbrella, which constantly fell on the floor. He did not seem to know
 which was the right end of his return ticket. He explained with a
 moon-calf simplicity to everybody in the carriage that he had to be
 careful, because he had something made of real silver “with blue stones”
- in one of his brown-paper parcels. His quaint blending of Essex flatness
+in one of his brown-paper parcels. His quaint blending of Essex flatness
 with saintly simplicity continuously amused the Frenchman till the
 priest arrived (somehow) at Tottenham with all his parcels, and came
 back for his umbrella. When he did the last, Valentin even had the good
@@ -223,7 +193,7 @@ it was up to the high reputation of the hotel. The result was that the
 waiter yawned suddenly and woke up.
 
 “Do you play this delicate joke on your customers every morning?”
- inquired Valentin. “Does changing the salt and sugar never pall on you
+inquired Valentin. “Does changing the salt and sugar never pall on you
 as a jest?”
 
 The waiter, when this irony grew clearer, stammeringly assured him that
@@ -281,7 +251,7 @@ compartments were two heaps, of oranges and of nuts respectively. On
 the heap of nuts lay a scrap of cardboard, on which was written in bold,
 blue chalk, “Best tangerine oranges, two a penny.” On the oranges was
 the equally clear and exact description, “Finest Brazil nuts, 4d. a lb.”
- M. Valentin looked at these two placards and fancied he had met this
+M. Valentin looked at these two placards and fancied he had met this
 highly subtle form of humour before, and that somewhat recently. He
 drew the attention of the red-faced fruiterer, who was looking
 rather sullenly up and down the street, to this inaccuracy in his
@@ -315,7 +285,7 @@ street. I’d ’ave caught the fool but for havin’ to pick ’em up.”
 “Which way did these parsons go?” asked Valentin.
 
 “Up that second road on the left-hand side, and then across the square,”
- said the other promptly.
+said the other promptly.
 
 “Thanks,” replied Valentin, and vanished like a fairy. On the other side
 of the second square he found a policeman, and said: “This is urgent,
@@ -565,7 +535,7 @@ attitudes of the deer-stalker, to crouch behind clumps of trees and
 even to crawl prostrate in deep grass. By these ungainly ingenuities the
 hunters even came close enough to the quarry to hear the murmur of the
 discussion, but no word could be distinguished except the word “reason”
- recurring frequently in a high and almost childish voice. Once over
+recurring frequently in a high and almost childish voice. Once over
 an abrupt dip of land and a dense tangle of thickets, the detectives
 actually lost the two figures they were following. They did not find the
 trail again for an agonising ten minutes, and then it led round the brow
@@ -738,7 +708,6 @@ all that. I believe you’ve still got the stuff on you, and if you don’t
 give it up--why, we’re all alone, and I’ll take it by force!”
 
 “No,” said Father Brown simply, and stood up also, “you won’t take it
-by force. First, because I really haven’t still got it. And, second,
 because we are not alone.”
 
 Flambeau stopped in his stride forward.
@@ -890,8 +859,8 @@ ready to pour money into any intellectual vessel, so long as it was
 an untried vessel. One of his hobbies was to wait for the American
 Shakespeare--a hobby more patient than angling. He admired Walt Whitman,
 but thought that Luke P. Tanner, of Paris, Pa., was more “progressive”
- than Whitman any day. He liked anything that he thought “progressive.”
- He thought Valentin “progressive,” thereby doing him a grave injustice.
+than Whitman any day. He liked anything that he thought “progressive.”
+He thought Valentin “progressive,” thereby doing him a grave injustice.
 
 The solid appearance of Julius K. Brayne in the room was as decisive
 as a dinner bell. He had this great quality, which very few of us
@@ -1169,7 +1138,7 @@ what Mr. O’Brien was doing in the garden, since he is bound to
 silence. He was asking me to marry him. I refused; I said in my family
 circumstances I could give him nothing but my respect. He was a little
 angry at that; he did not seem to think much of my respect. I wonder,”
- she added, with rather a wan smile, “if he will care at all for it now.
+she added, with rather a wan smile, “if he will care at all for it now.
 For I offer it him now. I will swear anywhere that he never did a thing
 like this.”
 
@@ -1283,7 +1252,6 @@ pleasanter things.
 “especially as it seems pretty plain now. Apparently Brayne hated this
 stranger for some reason; lured him into the garden, and killed him with
 my sword. Then he fled to the city, tossing the sword away as he went.
-By the way, Ivan tells me the dead man had a Yankee dollar in his
 pocket. So he was a countryman of Brayne’s, and that seems to clinch it.
 I don’t see any difficulties about the business.”
 
@@ -1440,7 +1408,6 @@ who he is, anyhow.”
 “Indeed!” cried the astonished doctor, “and who is he?”
 
 “His name was Arnold Becker,” said the under-detective, “though he went
-by many aliases. He was a wandering sort of scamp, and is known to have
 been in America; so that was where Brayne got his knife into him. We
 didn’t have much to do with him ourselves, for he worked mostly in
 Germany. We’ve communicated, of course, with the German police. But,
@@ -1505,7 +1472,7 @@ next two questions will stump anyone.”
 The priest still stood looking critically out of the window and waited.
 
 “You know how all the garden was sealed up like an air-tight chamber,”
- went on the doctor. “Well, how did the strange man get into the garden?”
+went on the doctor. “Well, how did the strange man get into the garden?”
 
 Without turning round, the little priest answered: “There never was any
 strange man in the garden.”
@@ -1637,7 +1604,7 @@ The Queer Feet
 
 
 If you meet a member of that select club, “The Twelve True Fishermen,”
- entering the Vernon Hotel for the annual club dinner, you will observe,
+entering the Vernon Hotel for the annual club dinner, you will observe,
 as he takes off his overcoat, that his evening coat is green and not
 black. If (supposing that you have the star-defying audacity to address
 such a being) you ask him why, he will probably answer that he does it
@@ -1650,7 +1617,6 @@ a mild, hard-working little priest, named Father Brown, and were to ask
 him what he thought was the most singular luck of his life, he would
 probably reply that upon the whole his best stroke was at the Vernon
 Hotel, where he had averted a crime and, perhaps, saved a soul, merely
-by listening to a few footsteps in a passage. He is perhaps a little
 proud of this wild and wonderful guess of his, and it is possible that
 he might refer to it. But since it is immeasurably unlikely that you
 will ever rise high enough in the social world to find “The Twelve
@@ -1949,7 +1915,6 @@ vigil for the feast of fish that was to come. The talk was that strange,
 slight talk which governs the British Empire, which governs it in
 secret, and yet would scarcely enlighten an ordinary Englishman even if
 he could overhear it. Cabinet ministers on both sides were alluded to
-by their Christian names with a sort of bored benignity. The Radical
 Chancellor of the Exchequer, whom the whole Tory party was supposed to
 be cursing for his extortions, was praised for his minor poetry, or his
 saddle in the hunting field. The Tory leader, whom all Liberals
@@ -1972,7 +1937,6 @@ this was no time for trifling, and was called able. In private, in a
 club of his own class, he was simply quite pleasantly frank and silly,
 like a schoolboy. Mr. Audley, never having been in politics, treated
 them a little more seriously. Sometimes he even embarrassed the company
-by phrases suggesting that there was some difference between a Liberal
 and a Conservative. He himself was a Conservative, even in private life.
 He had a roll of grey hair over the back of his collar, like certain
 old-fashioned statesmen, and seen from behind he looked like the man the
@@ -2078,7 +2042,7 @@ took them away? You know him?”
 “Know the waiter?” answered Mr. Audley indignantly. “Certainly not!”
 
 Mr. Lever opened his hands with a gesture of agony. “I never send him,”
- he said. “I know not when or why he come. I send my waiter to take away
+he said. “I know not when or why he come. I send my waiter to take away
 the plates, and he find them already away.”
 
 Mr. Audley still looked rather too bewildered to be really the man the
@@ -2731,8 +2695,8 @@ The athletic harlequin swung him about like a sack or twisted or tossed
 him like an Indian club; all the time to the most maddeningly ludicrous
 tunes from the piano. When the harlequin heaved the comic constable
 heavily off the floor the clown played “I arise from dreams of thee.”
- When he shuffled him across his back, “With my bundle on my shoulder,”
- and when the harlequin finally let fall the policeman with a most
+When he shuffled him across his back, “With my bundle on my shoulder,”
+and when the harlequin finally let fall the policeman with a most
 convincing thud, the lunatic at the instrument struck into a jingling
 measure with some words which are still believed to have been, “I sent a
 letter to my love and on the way I dropped it.”
@@ -2756,7 +2720,6 @@ with a cataract of applause, when Brown felt his arm abruptly touched,
 and he was asked in a whisper to come into the colonel’s study.
 
 He followed his summoner with increasing doubt, which was not dispelled
-by a solemn comicality in the scene of the study. There sat Colonel
 Adams, still unaffectedly dressed as a pantaloon, with the knobbed
 whalebone nodding above his brow, but with his poor old eyes sad enough
 to have sobered a Saturnalia. Sir Leopold Fischer was leaning against
@@ -3087,7 +3050,6 @@ he was looking at. I fancy this sort of disfigurement embittered the
 poor chap a little; for while Smythe was ready to show off his monkey
 tricks anywhere, James Welkin (that was the squinting man’s name) never
 did anything except soak in our bar parlour, and go for great walks
-by himself in the flat, grey country all round. All the same, I think
 Smythe, too, was a little sensitive about being so small, though he
 carried it off more smartly. And so it was that I was really puzzled, as
 well as startled, and very sorry, when they both offered to marry me in
@@ -3201,7 +3163,6 @@ shortly. “There’s some tomfoolery going on here that has to be
 investigated.”
 
 He pointed his polished walking-stick at the window, recently depleted
-by the bridal preparations of Mr. Angus; and that gentleman was
 astonished to see along the front of the glass a long strip of paper
 pasted, which had certainly not been on the window when he looked
 through it some time before. Following the energetic Smythe outside into
@@ -3476,7 +3437,6 @@ but he makes invisible also the murdered man.”
 Angus looked round at the dim room full of dummies, and in some Celtic
 corner of his Scotch soul a shudder started. One of the life-size dolls
 stood immediately overshadowing the blood stain, summoned, perhaps,
-by the slain man an instant before he fell. One of the high-shouldered
 hooks that served the thing for arms, was a little lifted, and Angus had
 suddenly the horrid fancy that poor Smythe’s own iron child had struck
 him down. Matter had rebelled, and these machines had killed their
@@ -3608,7 +3568,6 @@ Smythe in cold blood, and came down into the street again carrying the
 dead body in his arms--”
 
 “Reverend sir,” cried Angus, standing still, “are you raving mad, or am
-I?”
 
 “You are not mad,” said Brown, “only a little unobservant. You have not
 noticed such a man as this, for example.”
@@ -3626,7 +3585,6 @@ against the garden fence. He was a lean fair-bearded man of very
 ordinary appearance, but as he turned an alarmed face over his shoulder,
 all three men were fixed with an almost fiendish squint.
 
-              * * * * *
 
 Flambeau went back to his sabres, purple rugs and Persian cat, having
 many things to attend to. John Turnbull Angus went back to the lady at
@@ -3670,8 +3628,8 @@ Mary Queen of Scots.
 The rhyme in the country-side attested the motive and the result of
 their machinations candidly:
 
-     As green sap to the simmer trees
-     Is red gold to the Ogilvies.
+As green sap to the simmer trees
+Is red gold to the Ogilvies.
 
 For many centuries there had never been a decent lord in Glengyle
 Castle; and with the Victorian era one would have thought that all
@@ -4113,7 +4071,7 @@ and, saying “We must hide it again,” clamped the skull down in the
 earth. Then he leaned his little body and huge head on the great handle
 of the spade, that stood up stiffly in the earth, and his eyes were
 empty and his forehead full of wrinkles. “If one could only conceive,”
- he muttered, “the meaning of this last monstrosity.” And leaning on
+he muttered, “the meaning of this last monstrosity.” And leaning on
 the large spade handle, he buried his brows in his hands, as men do in
 church.
 
@@ -4174,8 +4132,8 @@ living logic that has been the religion of this race.
 
 “That old local rhyme about the house of Glengyle--
 
-     As green sap to the simmer trees
-     Is red gold to the Ogilvies--
+As green sap to the simmer trees
+Is red gold to the Ogilvies--
 
 was literal as well as metaphorical. It did not merely mean that the
 Glengyles sought for wealth; it was also true that they literally
@@ -4491,7 +4449,7 @@ what the deuce he’s doing here.”
 “It looks like hypnotism,” said Flambeau, biting his black moustache.
 
 “Why are you unmedical fellows always talking bosh about hypnotism?”
- cried the doctor. “It looks a deal more like burglary.”
+cried the doctor. “It looks a deal more like burglary.”
 
 “Well, we will speak to it, at any rate,” said Flambeau, who was always
 for action. One long stride took him to the place where the Indian
@@ -4649,7 +4607,6 @@ something as he ran.
 
 As he came among them like a bombshell the restless Atkinson happened to
 be taking a turn nearer to the house front; and the doctor clutched him
-by the collar in a convulsive grip. “Foul play!” he cried; “what have
 you been doing to him, you dog?”
 
 The priest had sprung erect, and had the voice of steel of a soldier in
@@ -4725,7 +4682,7 @@ unused on another and smaller table. Father Brown went up to it and held
 up a sheet. It was the same irregular shape.
 
 “Quite so,” he said. “And here I see the corners that were snipped off.”
- And to the indignation of his colleague he began to count them.
+And to the indignation of his colleague he began to count them.
 
 “That’s all right,” he said, with an apologetic smile. “Twenty-three
 sheets cut and twenty-two corners cut off them. And as I see you are
@@ -4853,7 +4810,7 @@ of paper. It was crookeder than the dagger that killed him.”
 Flambeau.
 
 “I mean the paper on which Quinton wrote, ‘I die by my own hand,’”
- answered Father Brown. “The shape of that paper, my friend, was the
+answered Father Brown. “The shape of that paper, my friend, was the
 wrong shape; the wrong shape, if ever I have seen it in this wicked
 world.”
 
@@ -4943,90 +4900,90 @@ following words:
 
 
 
-    DEAR FATHER BROWN,--Vicisti Galilee. Otherwise, damn your
-    eyes, which are very penetrating ones. Can it be possible that
-    there is something in all that stuff of yours after all?
+DEAR FATHER BROWN,--Vicisti Galilee. Otherwise, damn your
+eyes, which are very penetrating ones. Can it be possible that
+there is something in all that stuff of yours after all?
 
 
-    I am a man who has ever since boyhood believed in Nature and
-    in all natural functions and instincts, whether men called them
-    moral or immoral. Long before I became a doctor, when I was a
-    schoolboy keeping mice and spiders, I believed that to be a good
-    animal is the best thing in the world. But just now I am shaken;
-    I have believed in Nature; but it seems as if Nature could betray
-    a man. Can there be anything in your bosh? I am really getting
-    morbid.
+I am a man who has ever since boyhood believed in Nature and
+in all natural functions and instincts, whether men called them
+moral or immoral. Long before I became a doctor, when I was a
+schoolboy keeping mice and spiders, I believed that to be a good
+animal is the best thing in the world. But just now I am shaken;
+I have believed in Nature; but it seems as if Nature could betray
+a man. Can there be anything in your bosh? I am really getting
+morbid.
 
 
-    I loved Quinton’s wife. What was there wrong in that? Nature
-    told me to, and it’s love that makes the world go round. I also
-    thought quite sincerely that she would be happier with a clean
-    animal like me than with that tormenting little lunatic. What was
-    there wrong in that? I was only facing facts, like a man of
-    science. She would have been happier.
+I loved Quinton’s wife. What was there wrong in that? Nature
+told me to, and it’s love that makes the world go round. I also
+thought quite sincerely that she would be happier with a clean
+animal like me than with that tormenting little lunatic. What was
+there wrong in that? I was only facing facts, like a man of
+science. She would have been happier.
 
 
-    According to my own creed I was quite free to kill Quinton,
-    which was the best thing for everybody, even himself. But as a
-    healthy animal I had no notion of killing myself. I resolved,
-    therefore, that I would never do it until I saw a chance that
-    would leave me scot free. I saw that chance this morning.
+According to my own creed I was quite free to kill Quinton,
+which was the best thing for everybody, even himself. But as a
+healthy animal I had no notion of killing myself. I resolved,
+therefore, that I would never do it until I saw a chance that
+would leave me scot free. I saw that chance this morning.
 
 
-    I have been three times, all told, into Quinton’s study today.
-    The first time I went in he would talk about nothing but the weird
-    tale, called “The Cure of a Saint,” which he was writing, which
-    was all about how some Indian hermit made an English colonel kill
-    himself by thinking about him. He showed me the last sheets, and
-    even read me the last paragraph, which was something like this:
-    “The conqueror of the Punjab, a mere yellow skeleton, but still
-    gigantic, managed to lift himself on his elbow and gasp in his
-    nephew’s ear: ‘I die by my own hand, yet I die murdered!’” It so
-    happened by one chance out of a hundred, that those last words
-    were written at the top of a new sheet of paper. I left the room,
-    and went out into the garden intoxicated with a frightful
-    opportunity.
+I have been three times, all told, into Quinton’s study today.
+The first time I went in he would talk about nothing but the weird
+tale, called “The Cure of a Saint,” which he was writing, which
+was all about how some Indian hermit made an English colonel kill
+himself by thinking about him. He showed me the last sheets, and
+even read me the last paragraph, which was something like this:
+“The conqueror of the Punjab, a mere yellow skeleton, but still
+gigantic, managed to lift himself on his elbow and gasp in his
+nephew’s ear: ‘I die by my own hand, yet I die murdered!’” It so
+happened by one chance out of a hundred, that those last words
+were written at the top of a new sheet of paper. I left the room,
+and went out into the garden intoxicated with a frightful
+opportunity.
 
 
-    We walked round the house; and two more things happened in my
-    favour. You suspected an Indian, and you found a dagger which the
-    Indian might most probably use. Taking the opportunity to stuff
-    it in my pocket I went back to Quinton’s study, locked the door,
-    and gave him his sleeping draught. He was against answering
-    Atkinson at all, but I urged him to call out and quiet the fellow,
-    because I wanted a clear proof that Quinton was alive when I left
-    the room for the second time. Quinton lay down in the conservatory,
-    and I came through the study. I am a quick man with my hands, and
-    in a minute and a half I had done what I wanted to do. I had
-    emptied all the first part of Quinton’s romance into the fireplace,
-    where it burnt to ashes. Then I saw that the quotation marks
-    wouldn’t do, so I snipped them off, and to make it seem likelier,
-    snipped the whole quire to match. Then I came out with the
-    knowledge that Quinton’s confession of suicide lay on the front
-    table, while Quinton lay alive but asleep in the conservatory
-    beyond.
+We walked round the house; and two more things happened in my
+favour. You suspected an Indian, and you found a dagger which the
+Indian might most probably use. Taking the opportunity to stuff
+it in my pocket I went back to Quinton’s study, locked the door,
+and gave him his sleeping draught. He was against answering
+Atkinson at all, but I urged him to call out and quiet the fellow,
+because I wanted a clear proof that Quinton was alive when I left
+the room for the second time. Quinton lay down in the conservatory,
+and I came through the study. I am a quick man with my hands, and
+in a minute and a half I had done what I wanted to do. I had
+emptied all the first part of Quinton’s romance into the fireplace,
+where it burnt to ashes. Then I saw that the quotation marks
+wouldn’t do, so I snipped them off, and to make it seem likelier,
+snipped the whole quire to match. Then I came out with the
+knowledge that Quinton’s confession of suicide lay on the front
+table, while Quinton lay alive but asleep in the conservatory
+beyond.
 
 
-    The last act was a desperate one; you can guess it: I pretended
-    to have seen Quinton dead and rushed to his room. I delayed you
-    with the paper, and, being a quick man with my hands, killed
-    Quinton while you were looking at his confession of suicide. He
-    was half-asleep, being drugged, and I put his own hand on the
-    knife and drove it into his body. The knife was of so queer a
-    shape that no one but an operator could have calculated the angle
-    that would reach his heart. I wonder if you noticed this.
+The last act was a desperate one; you can guess it: I pretended
+to have seen Quinton dead and rushed to his room. I delayed you
+with the paper, and, being a quick man with my hands, killed
+Quinton while you were looking at his confession of suicide. He
+was half-asleep, being drugged, and I put his own hand on the
+knife and drove it into his body. The knife was of so queer a
+shape that no one but an operator could have calculated the angle
+that would reach his heart. I wonder if you noticed this.
 
 
-    When I had done it, the extraordinary thing happened. Nature
-    deserted me. I felt ill. I felt just as if I had done something
-    wrong. I think my brain is breaking up; I feel some sort of
-    desperate pleasure in thinking I have told the thing to somebody;
-    that I shall not have to be alone with it if I marry and have
-    children. What is the matter with me?... Madness... or can one
-    have remorse, just as if one were in Byron’s poems! I cannot
-    write any more.
+When I had done it, the extraordinary thing happened. Nature
+deserted me. I felt ill. I felt just as if I had done something
+wrong. I think my brain is breaking up; I feel some sort of
+desperate pleasure in thinking I have told the thing to somebody;
+that I shall not have to be alone with it if I marry and have
+children. What is the matter with me?... Madness... or can one
+have remorse, just as if one were in Byron’s poems! I cannot
+write any more.
 
-                   James Erskine Harris.
+James Erskine Harris.
 
 
 Father Brown carefully folded up the letter, and put it in his breast
@@ -5168,7 +5125,6 @@ the low eaves. Through three different windows on three different sides
 they looked in on the same long, well-lit room, panelled in light wood,
 with a large number of looking-glasses, and laid out as for an elegant
 lunch. The front door, when they came round to it at last, was flanked
-by two turquoise-blue flower pots. It was opened by a butler of the
 drearier type--long, lean, grey and listless--who murmured that Prince
 Saradine was from home at present, but was expected hourly; the house
 being kept ready for him and his guests. The exhibition of the card with
@@ -5291,7 +5247,7 @@ dashing part, having a white top hat, an orchid in his coat, a yellow
 waistcoat and yellow gloves which he flapped and swung as he walked.
 When he came round to the front door they heard the stiff Paul open it,
 and heard the new arrival say cheerfully, “Well, you see I have come.”
- The stiff Mr. Paul bowed and answered in his inaudible manner; for a
+The stiff Mr. Paul bowed and answered in his inaudible manner; for a
 few minutes their conversation could not be heard. Then the butler said,
 “Everything is at your disposal;” and the glove-flapping Prince Saradine
 came gaily into the room to greet them. They beheld once more that
@@ -5415,7 +5371,6 @@ monstrously sincere.
 “The deuce!” said Prince Saradine, and clapping on his white hat he went
 to the front door himself, flinging it open on the sunset garden.
 
-By that time the new-comer and his followers were drawn up on the lawn
 like a small stage army. The six boatmen had pulled the boat well up on
 shore, and were guarding it almost menacingly, holding their oars erect
 like spears. They were swarthy men, and some of them wore earrings. But
@@ -5550,7 +5505,6 @@ Sicilian using his with a murderous care. Few finer fencing matches can
 ever have been seen in crowded amphitheatres than that which tinkled and
 sparkled on that forgotten island in the reedy river. The dizzy fight
 was balanced so long that hope began to revive in the protesting priest;
-by all common probability Paul must soon come back with the police. It
 would be some comfort even if Flambeau came back from his fishing, for
 Flambeau, physically speaking, was worth four other men. But there was
 no sign of Flambeau, and, what was much queerer, no sign of Paul or the
@@ -5593,7 +5547,6 @@ certain truth that he never opened it again in this world, except to say
 
 Father Brown had stared at the suddenly crowded garden, the arrest of
 the man of blood, the carrying away of the corpse after its examination
-by the doctor, rather as one watches the break-up of some ugly dream; he
 was motionless, like a man in a nightmare. He gave his name and address
 as a witness, but declined their offer of a boat to the shore, and
 remained alone in the island garden, gazing at the broken rose bush
@@ -6268,7 +6221,7 @@ useful, if only to hold him! I suppose you yourself have no guess at the
 man?”
 
 “I may have a guess,” said the pale smith, “but it is not at a man.”
- Then, seeing the scared eyes turn towards his wife on the bench, he put
+Then, seeing the scared eyes turn towards his wife on the bench, he put
 his huge hand on her shoulder and said: “Nor a woman either.”
 
 “What do you mean?” asked the inspector jocularly. “You don’t think cows
@@ -6301,7 +6254,7 @@ turning his broad back, he went into the house.
 
 The shaken Wilfred was led away by Father Brown, who had an easy and
 friendly way with him. “Let us get out of this horrid place, Mr. Bohun,”
- he said. “May I look inside your church? I hear it’s one of the oldest
+he said. “May I look inside your church? I hear it’s one of the oldest
 in England. We take some interest, you know,” he added with a comical
 grimace, “in old English churches.”
 
@@ -6444,7 +6397,6 @@ engines of nature; I mean gravitation, that mad and quickening rush by
 which all earth’s creatures fly back to her heart when released. See,
 the inspector is strutting just below us in the smithy. If I were to
 toss a pebble over this parapet it would be something like a bullet
-by the time it struck him. If I were to drop a hammer--even a small
 hammer--”
 
 Wilfred Bohun threw one leg over the parapet, and Father Brown had him
@@ -6638,7 +6590,7 @@ should there be one star I may not see? The sun is not my master, and I
 will open my eyes and stare at him whenever I choose.”
 
 “Your eyes,” said Flambeau, with a foreign bow, “will dazzle the sun.”
- He took pleasure in complimenting this strange stiff beauty, partly
+He took pleasure in complimenting this strange stiff beauty, partly
 because it threw her a little off her balance. But as he went upstairs
 to his floor he drew a deep breath and whistled, saying to himself: “So
 she has got into the hands of that conjurer upstairs with his golden
@@ -7195,7 +7147,6 @@ that when a wise man has to hide a real diamond he has been known to
 hide it among sham ones?”
 
 “No, no,” said the little man with a laugh, “we will let bygones be
-bygones.”
 
 He stamped his cold feet for a second or two, and then said: “I’m
 not thinking of that at all, but of something else; something rather
@@ -7341,7 +7292,6 @@ his life. President Olivier by similar report is charged with savage
 injustice. I think it due to the honour of an enemy to say that he acted
 on this occasion with even more than his characteristic good feeling. To
 put the matter popularly, I can assure my countrymen that St. Clare was
-by no means such a fool nor Olivier such a brute as he looked. This is
 all I have to say; nor shall any earthly consideration induce me to add
 a word to it.’”
 
@@ -7376,7 +7326,6 @@ collapse was close, and resolved on suicide. Yet ordinary suicide would
 blazon the very idea he dreaded. As the campaign approached the clouds
 came thicker on his brain; and at last in a mad moment he sacrificed his
 public duty to his private. He rushed rashly into battle, hoping to fall
-by the first shot. When he found that he had only attained capture and
 discredit, the sealed bomb in his brain burst, and he broke his own
 sword and hanged himself.”
 
@@ -8406,6 +8355,3 @@ stopped him and said:
 
 “I’ve got to get back to the Deaf School,” said Father Brown. “I’m sorry
 I can’t stop for the inquiry.”
-
-
-
