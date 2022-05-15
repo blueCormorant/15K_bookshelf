@@ -2,20 +2,17 @@
 
 
 
-                           PREVIEW OF PERIL
 
-                         By ALFRED COPPEL, Jr.
 
-               _Like shadows, the four ships of Flotilla
-             Blue Three slipped through the patrol cordon
-               of the powerful Martian Space Force. Only
-              the crazy luck of their mad, medal-bedecked
-               Commodore would ever get them out again._
+_Like shadows, the four ships of Flotilla
+Blue Three slipped through the patrol cordon
+of the powerful Martian Space Force. Only
+the crazy luck of their mad, medal-bedecked
+Commodore would ever get them out again._
 
-           [Transcriber's Note: This etext was produced from
-                    Planet Stories September 1953.
-         Extensive research did not uncover any evidence that
-         the U.S. copyright on this publication was renewed.]
+Planet Stories September 1953.
+Extensive research did not uncover any evidence that
+the U.S. copyright on this publication was renewed.]
 
 
 The Second Martian War was three weeks old when the officers of the
@@ -43,7 +40,6 @@ situation as old as ships and men.
 
 So there was little joy to be seen in the faces of Commander Scott and
 his officers when Commodore Hartnett stepped through the valve followed
-by his staff. Nor was their anything about Hartnett's appearance to
 suggest that they had been anything but right about the manner in which
 Flotilla Blue Three would be handled throughout the coming patrol. The
 Commodore was a model of military correctness, a martinet moulded in
@@ -95,7 +91,6 @@ moments Hartnett stepped aboard, reflected Commander Scott bitterly,
 the ship tightened up. From here on in it was Hartnett's ship and there
 wasn't a damn thing anyone could do about it.
 
-       *       *       *       *       *
 
 Introductions were short and to the point. Most of the ship's officers
 had met Hartnett's staff at the Base Officer's Club after the Captain's
@@ -187,7 +182,6 @@ side of his chair. The second hand swept up the face of the dial, and
 Scott hit the firing studs. Far below, Jetman Collins removed the
 dampers from the main blast chambers.
 
-       *       *       *       *       *
 
 The takeoff was strictly routine for the Luna Base personnel. The
 four ships of the Flotilla rose from the pits on their long tails of
@@ -225,17 +219,6 @@ Intelligence suspects the Cats have cracked our cipher!"
 
 He sat down at the scrambler and began to type.
 
-    "COMMODORE CLARE HARTNETT: ABOARD TRS DARKSIDE FLOTILLA BLUE THREE.
-    PRIORITY MISSION. REPEAT. PRIORITY MISSION. SPATIAL INTELLIGENCE
-    REPORTS LARGE QUANTITY ISOTOPE X-R REFERENCE 6589-3 CODE BOOK IN
-    DANGER OF CAPTURE AT METALLURGICAL STATION 9 CHART REFERENCE A-5.
-    PREVENT AT ALL COSTS. LARGE CONCENTRATION MARTIAN PHOBOS CLASS
-    CRUISERS AND POSSIBLE SUPERDREADNAUGHT ARMED WITH CYCLOTRONICS IN
-    VICINITY SEARCHING FOR STATION 9. REPEAT. X-R MUST NOT FALL INTO
-    MARTIAN HANDS. DESTROY IF NECESSARY. FOR YOUR INFORMATION AND
-    GUIDANCE INTELLIGENCE SUSPECTS CIPHER TWO HAS BEEN CRACKED BY
-    MARTIAN CRYPTO. LUCK. DO NOT ACKNOWLEDGE. SIGNED: TORAN LONG,
-    CAPTAIN, SENIOR CONTROL, LUNA BASE. END MESSAGE."
 
 Rising, he detached the roll of perforated tape from the scrambler and
 fed it into the tight beam transmitter. When the roll was consumed,
@@ -279,7 +262,6 @@ He shook his head and left the Control Tower wearily.
 The relief gave a low whistle and turned to look out over the earthlit
 moonscape. "Too bad."
 
-       *       *       *       *       *
 
 Hartnett caught the Commander's eye as he worked at the control board.
 
@@ -327,7 +309,6 @@ then. See you in the wardroom at dinner. Carry on, Mr. Scott."
 He left Scott feeling sorry for his friend, Tom Drew, who commanded
 Blue Three's lame duck, the beloved _Artemis_.
 
-       *       *       *       *       *
 
 Striding down the ramp, the Commodore came to the main gun-deck and
 headed aft, past the banks of five inchers and torpedo tubes that lined
@@ -370,7 +351,6 @@ farther and faster. And Terra, for all its failings, was a free world
 fighting for a free space. But the Cats had more ships and a hell of a
 lot less reluctance about using them to enslave everybody in sight.
 
-       *       *       *       *       *
 
 The first Martian war had ended the squabbling confederation of
 sovereign states that had been the UN. And the Martian war had brought
@@ -416,7 +396,6 @@ Hartnett turned to his aide. "Reach me that space-bag, will you Ward?
 That's the one. Fish out Code Book 6589 and the A chart. That's the
 deal."
 
-       *       *       *       *       *
 
 Hartnett's staff and all of the _Darkside's_ officers not actually
 on watch assembled in the wardroom on the Commodore's orders. The
@@ -524,7 +503,6 @@ He looked around the table with the vaguest suggestion of a grin on his
 leathery face. He nodded his head at Scott. "You're quite right, Mr.
 Scott, the _Artemis_."
 
-       *       *       *       *       *
 
 Scott paced furiously up and down the steel deck of the dark Control.
 Chavez sat before the panels, his saturnine face wreathed in demon-like
@@ -580,7 +558,6 @@ he'd take your ship from you just because...."
 "Skip it, Chav!" snapped Scott and he left the Control in peevish
 silence.
 
-       *       *       *       *       *
 
 Sixty hours later Blue Three lay grounded in a jagged little valley
 on airless Hyperion. Spacesuited figures swarmed about the clustered
@@ -631,7 +608,6 @@ his hands on the control panels.
 
 A thousand yards behind and astern, the unmanned _Artemis_ followed
 the _Darkside_ like a dog on a leash, its myriad functions controlled
-by an invisible chain of subetheric impulses from jerry-rigged remote
 controls on the _Darkside's_ gun-deck.
 
 In the faint light of the faraway sun, where the irrepressible Blake
@@ -648,7 +624,6 @@ harsh, forbidding. The thick atmosphere of methane and ammonia lay in
 great turbulent belts, whipped to maniacal fury by the eternal storms
 that swept the unguessable surface of the ghastly planet.
 
-       *       *       *       *       *
 
 Blake shivered slightly as the skeeter-valve of the _Darkside_ closed
 soundlessly behind him and the blackness of the void closed in about
@@ -700,7 +675,6 @@ the photophone. The infrared lamps on the top of the helmets blinked
 eagerly in answer. Then quickly the four men vanished into the storage
 hut and set feverishly to work.
 
-       *       *       *       *       *
 
 Control was lit only by the red battle lamps. Lines were strung
 along the walls and through the valves, and Scott, Chavez, and the
@@ -746,13 +720,6 @@ Scott cursed silently. "Spread beam."
 Scott read from the flimsy in a flat voice, a note of astonishment
 creeping in as he finished the message.
 
-    "TORAN LONG, SENIOR CONTROL, LUNA BASE. AM STANDING BY OFF OBERON
-    READY TO LOAD ISOTOPE X-R ON BOARD DESTROYER "ARTEMIS" HAVE NOT MET
-    THE ENEMY AND HAVE SUFFERED NO CASUALTIES. ONE AUXILIARY TUBE ON
-    THE "ORION" HAS BLOWN BUT THE "JOVE" AND "MINERVA" ARE STANDING BY
-    TO EFFECT EMERGENCY REPAIRS. HAVE DOCK SPACE AVAILABLE FOR REPAIR
-    OF "ORION" L PLUS 21 2235 SIDEREAL. SIGNED C. HARTNETT COMMODORE
-    RED SIX. END MESSAGE."
 
 Scott wondered wildly if Hartnett had not suddenly lost his mind. Red
 Six was the Code name for the Task Force that included five Terran
@@ -779,7 +746,6 @@ Twenty minutes after _Artemis_ left the Flotilla, the radioactive
 streaks of the first Martian cruisers showed in the sky 15,000 miles
 away.
 
-       *       *       *       *       *
 
 Blake and the three technicians from Station 9 huddled in the careening
 skeeter-boat. They were almost on top of the Martian superdreadnaught
@@ -885,7 +851,6 @@ Though no one stayed to look at it, the sight of the remnants of Oberon
 forming into a thin ring around the grumbling Uranus must have been
 quite impressive.
 
-       *       *       *       *       *
 
 Ten hours from Luna Base, Flotilla Blue Three's officers had assembled
 for a victory dinner in the wardroom. The last course was cleared away,

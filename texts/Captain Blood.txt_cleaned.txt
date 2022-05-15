@@ -1,57 +1,3 @@
-
-
-
-
-
-CAPTAIN BLOOD
-
-By Rafael Sabatini
-
-
-CAPTAIN BLOOD His Odyssey
-
-
-
-CONTENTS
-
-     I.       THE MESSENGER
-     II.      KIRKE'S DRAGOONS
-     III.     THE LORD CHIEF JUSTICE
-     IV.      HUMAN MERCHANDISE
-     V.       ARABELLA BISHOP
-     VI.      PLANS OF ESCAPE
-     VII.     PIRATES
-     VIII.    SPANIARDS
-     IX.      THE REBELS-CONVICT
-     X.       DON DIEGO
-     XI.      FILIAL PIETY
-     XII.     DON PEDRO SANGRE
-     XIII.    TORTUGA
-     XIV.     LEVASSEUR'S HEROICS
-     XV.      THE RANSOM
-     XVI.     THE TRAP
-     XVII.    THE DUPES
-     XVIII.   THE MILAGROSA
-     XIX.     THE MEETING
-     XX.      THIEF AND PIRATE
-     XXI.     THE SERVICE OF KING JAMES
-     XXII.    HOSTILITIES
-     XXIII.   HOSTAGES
-     XXIV.    WAR
-     XXV.     THE SERVICE OF KING LOUIS
-     XXVI.    M. DE RIVAROL
-     XXVII.   CARTAGENA
-     XXVIII.  THE HONOUR OF M. DE RIVAROL
-     XXIX.    THE SERVICE OF KING WILLIAM
-     XXX.     THE LAST FIGHT OF THE ARABELLA
-     XXXI.    HIS EXCELLENCY THE GOVERNOR
-
-
-
-
-CHAPTER I. THE MESSENGER
-
-
 Peter Blood, bachelor of medicine and several other things besides,
 smoked a pipe and tended the geraniums boxed on the sill of his window
 above Water Lane in the town of Bridgewater.
@@ -223,7 +169,6 @@ This wildness had profoundly alarmed his father, who for an Irishman was
 of a singularly peace-loving nature. He had early resolved that the
 boy should follow his own honourable profession, and Peter Blood, being
 quick to learn and oddly greedy of knowledge, had satisfied his parent
-by receiving at the age of twenty the degree of baccalaureus medicinae
 at Trinity College, Dublin. His father survived that satisfaction by
 three months only. His mother had then been dead some years already.
 Thus Peter Blood came into an inheritance of some few hundred pounds,
@@ -362,7 +307,6 @@ indeed the very messenger of Fate.
 
 
 
-CHAPTER II. KIRKE'S DRAGOONS
 
 
 Oglethorpe's farm stood a mile or so to the south of Bridgewater on the
@@ -548,7 +492,6 @@ in Hobart. The announcement of his lordship's rank had touched those
 depths. A servile upstart, he stood in awe of titles. And he stood in
 awe of his colonel. Percy Kirke was not lenient with blunderers.
 
-By a gesture he checked his men. He must consider. Mr. Blood, observing
 his pause, added further matter for his consideration.
 
 “Ye'll be remembering, Captain, that Lord Gildoy will have friends and
@@ -635,7 +578,7 @@ and glaring into his face. “He's rallying rue, by God!”
 you.”
 
 The dragoon glared at the doctor and then at his prisoner. “Pah!”
- He thrust the lad into the hands of his men. “Fetch him along to
+He thrust the lad into the hands of his men. “Fetch him along to
 Bridgewater. And make fast that fellow also,” he pointed to Baynes.
 “We'll show him what it means to harbour and comfort rebels.”
 
@@ -727,7 +670,6 @@ himself up as a healer of a species that was best exterminated.
 
 
 
-CHAPTER III. THE LORD CHIEF JUSTICE
 
 
 It was not until two months later--on the 19th of September, if you
@@ -957,7 +899,7 @@ evidence, whereupon the scarlet figure of the Lord Chief Justice heaved
 a sigh of relief.
 
 “This being so, let us get on, in God's name; for we have much to do.”
- There was now no trace of gentleness in his voice. It was brisk and
+There was now no trace of gentleness in his voice. It was brisk and
 rasping, and the lips through which it passed were curved in scorn. “I
 take it, Mr. Pollexfen, that the wicked treason of these three rogues
 being established--indeed, admitted by them--there is no more to be
@@ -1262,7 +1204,6 @@ pity he must hang. For a man who can frighten Jeffreys should go far.”
 
 
 
-CHAPTER IV. HUMAN MERCHANDISE
 
 
 Mr. Pollexfen was at one and the same time right and wrong--a condition
@@ -1387,7 +1328,6 @@ figure that he cut. Unwashed, with rank and matted hair and a
 disfiguring black beard upon his face, and the erstwhile splendid suit
 of black camlet in which he had been taken prisoner now reduced to rags
 that would have disgraced a scarecrow, he was in no case for inspection
-by such dainty eyes as these. Nevertheless, they continued to inspect
 him with round-eyed, almost childlike wonder and pity. Their owner put
 forth a hand to touch the scarlet sleeve of her companion, whereupon
 with an ill-tempered grunt the man swung his great bulk round so that he
@@ -1476,7 +1416,6 @@ moment by the thought that he was at last about to be separated from
 this man with whom he had stood shoulder to shoulder throughout all
 these troublous months, and whom he had come to love and depend upon for
 guidance and sustenance. A sense of loneliness and misery pervaded him
-by contrast with which all that he had endured seemed as nothing. To
 Pitt, this separation was the poignant climax of all his sufferings.
 
 Other buyers came and stared at them, and passed on. Blood did not heed
@@ -1532,7 +1471,6 @@ disdainful buyer--for the ignominious sum of ten pounds.
 
 
 
-CHAPTER V. ARABELLA BISHOP
 
 
 One sunny morning in January, about a month after the arrival of the
@@ -1644,7 +1582,7 @@ bought and sold was a new one, and I was hardly in the mood to love my
 purchaser.”
 
 “If I urged you upon my uncle, sir, it was that I commiserated you.”
- There was a slight severity in her tone, as if to reprove the mixture of
+There was a slight severity in her tone, as if to reprove the mixture of
 mockery and flippancy in which he seemed to be speaking.
 
 She proceeded to explain herself. “My uncle may appear to you a hard
@@ -1684,7 +1622,7 @@ the megrims.”
 “Do you depend upon that?” She was frankly scornful.
 
 “You have certainly never had the gout; probably not even the megrims,”
- said he.
+said he.
 
 She made a little impatient movement with her hand, and looked away from
 him a moment, out to sea. Quite suddenly she looked at him again; and
@@ -1739,8 +1677,8 @@ and where he, himself, was lodged with them.
 
 Through his mind sang the line of Lovelace:
 
-  “Stone walls do not a prison make,
-   Nor iron bars a cage.”
+“Stone walls do not a prison make,
+Nor iron bars a cage.”
 
 But he gave it a fresh meaning, the very converse of that which its
 author had intended. A prison, he reflected, was a prison, though it had
@@ -1817,7 +1755,6 @@ Bishop, yet hers was free of the vices that tainted her uncle's, for
 these vices were not natural to that blood; they were, in his
 case, acquired. Her father, Tom Bishop--that same Colonel Bishop's
 brother--had been a kindly, chivalrous, gentle soul, who, broken-hearted
-by the early death of a young wife, had abandoned the Old World and
 sought an anodyne for his grief in the New. He had come out to the
 Antilles, bringing with him his little daughter, then five years of age,
 and had given himself up to the life of a planter. He had prospered
@@ -2044,7 +1981,7 @@ an angel for his niece?” said he recklessly, for he was reckless as men
 often are in sudden penitence.
 
 “You wouldn't, of course. I shouldn't think you often guess aright.”
- Having withered him with that and her glance, she turned to her negro
+Having withered him with that and her glance, she turned to her negro
 and the basket that he carried. From this she lifted now the fruits and
 delicacies with which it was laden, and piled them in such heaps upon
 the beds of the six Spaniards that by the time she had so served the
@@ -2068,7 +2005,6 @@ breed a devil like Colonel Bishop should also breed a saint like this?”
 
 
 
-CHAPTER VI. PLANS OF ESCAPE
 
 After that Arabella Bishop went daily to the shed on the wharf with
 gifts of fruit, and later of money and of wearing apparel for the
@@ -2157,7 +2093,7 @@ say it to Governor Steed. It may amuse him.”
 
 “You're so very hot, now!” The doctor linked his arm through Peter's.
 “I protest I desire to be your friend--to serve you. Now, listen.”
- Instinctively his voice grew lower. “This slavery in which you find
+Instinctively his voice grew lower. “This slavery in which you find
 yourself must be singularly irksome to a man of parts such as yourself.”
 
 “What intuitions!” cried sardonic Mr. Blood. But the doctor took him
@@ -2543,7 +2479,7 @@ compelled to enter. The Secretary's office postponed this reimbursement
 until it should have obtained confirmation of the transaction.
 
 “We are informed that you have bought a wherry from Mr. Robert Farrell,”
- said the officer.
+said the officer.
 
 “That is so,” said Nuttall, who conceived that for him this was the end
 of the world.
@@ -2746,7 +2682,7 @@ friendliness she held out her hand to him.
 
 “Och, now....” He paused. His keen sapphire eyes considered her steadily
 a moment from under his level black brows. “It might have been worse,”
- he said, with a significance which brought a tinge of colour to her
+he said, with a significance which brought a tinge of colour to her
 cheeks and a flutter to her eyelids.
 
 He stooped to kiss her hand before releasing it, and she did not deny
@@ -2760,7 +2696,6 @@ Governor's gout now overhung him.
 
 
 
-CHAPTER VII. PIRATES
 
 
 Mr. James Nuttall made all speed, regardless of the heat, in his journey
@@ -3198,7 +3133,6 @@ and eyeballs.
 
 
 
-CHAPTER VIII. SPANIARDS
 
 
 The stately ship that had been allowed to sail so leisurely into
@@ -3256,7 +3190,6 @@ all of whom were in a state of panic. He led them into the low white
 house, to bring them forth again, within a moment, as it seemed, armed
 now with muskets and hangers and some of them equipped with bandoleers.
 
-By this time the rebels-convict were coming in, in twos and threes,
 having abandoned their work upon finding themselves unguarded and upon
 scenting the general dismay.
 
@@ -3478,7 +3411,6 @@ fellow-slaves awaited him in deep anxiety and some hope.
 
 
 
-CHAPTER IX. THE REBELS-CONVICT
 
 
 There were, when the purple gloom of the tropical night descended upon
@@ -3499,7 +3431,6 @@ bring up in silence under the great ship's quarter.
 From the gallery aft still hung the ladder by which Don Diego had
 descended to the boat that had taken him ashore. The sentry on guard in
 the stern, coming presently round this gallery, was suddenly confronted
-by the black shadow of a man standing before him at the head of the
 ladder.
 
 “Who's there?” he asked, but without alarm, supposing it one of his
@@ -3517,7 +3448,6 @@ he was master.
 “This way,” said Mr. Blood.
 
 The wooden taffrail was a low one, and the Spaniard was taken completely
-by surprise. Save for the splash he made as he struck the water,
 narrowly missing one of the crowded boats that waited under the counter,
 not a sound announced his misadventure. Armed as he was with corselet,
 cuissarts, and headpiece, he sank to trouble them no more.
@@ -3610,7 +3540,6 @@ shoulder, announced the approach of a boat. It was Don Diego de Espinosa
 y Valdez coming aboard with four great treasure-chests, containing each
 twenty-five thousand pieces of eight, the ransom delivered to him at
 dawn by Governor Steed. He was accompanied by his son, Don Esteban, and
-by six men who took the oars.
 
 Aboard the frigate all was quiet and orderly as it should be. She
 rode at anchor, her larboard to the shore, and the main ladder on her
@@ -3628,10 +3557,8 @@ entirely unsuspicious. What should the poor man suspect?
 
 Before he could even look round, and survey this guard drawn up to
 receive him, a tap over the head with a capstan bar efficiently handled
-by Hagthorpe put him to sleep without the least fuss.
 
 He was carried away to his cabin, whilst the treasure-chests, handled
-by the men he had left in the boat, were being hauled to the deck. That
 being satisfactorily accomplished, Don Esteban and the fellows who had
 manned the boat came up the ladder, one by one, to be handled with the
 same quiet efficiency. Peter Blood had a genius for these things, and
@@ -3730,7 +3657,6 @@ officers.
 
 As he stepped from the ladder into the vessel's waist, the Colonel
 beheld there, beside the main hatch, the four treasure-chests, the
-contents of one of which had been contributed almost entirely by
 himself. It was a gladsome spectacle, and his eyes sparkled in beholding
 it.
 
@@ -3968,7 +3894,6 @@ drive the iron of impotent rage deeper into his soul.
 
 
 
-CHAPTER X. DON DIEGO
 
 
 Don Diego de Espinosa y Valdez awoke, and with languid eyes in aching
@@ -4067,7 +3992,6 @@ imagine.
 
 “You flatter my Castilian accent. I have the honour to be Irish. You
 were thinking that a miracle had happened. So it has--a miracle wrought
-by my genius, which is considerable.”
 
 Succinctly now Captain Blood dispelled the mystery by a relation of
 the facts. It was a narrative that painted red and white by turns the
@@ -4231,10 +4155,8 @@ not see how pale his face had grown.
 
 
 
-CHAPTER XI. FILIAL PIETY
 
 
-By virtue of the pledge he had given, Don Diego de Espinosa enjoyed the
 freedom of the ship that had been his, and the navigation which he had
 undertaken was left entirely in his hands. And because those who manned
 her were new to the seas of the Spanish Main, and because even the
@@ -4448,7 +4370,6 @@ sprang for the Captain's throat.
 
 Tight-locked in each other's arms, they swayed a moment, then together
 went down upon the deck, the Spaniard's feet jerked from under him
-by the right leg of Captain Blood. The Spaniard had depended upon his
 strength, which was considerable. But it proved no match for the
 steady muscles of the Irishman, tempered of late by the vicissitudes
 of slavery. He had depended upon choking the life out of Blood, and so
@@ -4520,7 +4441,6 @@ blood.”
 
 “Wait,” Captain Blood imperiously commanded, and turning on his heel, he
 went aside to the rail. As he stood there deep in thought, he was joined
-by Hagthorpe, Wolverstone, and Ogle the gunner. In silence they stared
 with him across the water at that other ship. She had veered a point
 away from the wind, and was running now on a line that must in the end
 converge with that of the Cinco Llagas.
@@ -4553,7 +4473,7 @@ Was in his glance.
 his son may take a different view. Filial piety's mighty strong in
 Spain.” He swung on his heel abruptly, and strode back to the knot of
 men about his prisoner. “Here!” he shouted to them. “Bring him below.”
- And he led the way down to the waist, and thence by the booby hatch to
+And he led the way down to the waist, and thence by the booby hatch to
 the gloom of the 'tween-decks, where the air was rank with the smell
 of tar and spun yarn. Going aft he threw open the door of the spacious
 wardroom, and went in followed by a dozen of the hands with the pinioned
@@ -4712,7 +4632,6 @@ back.
 
 
 
-CHAPTER XII. DON PEDRO SANGRE
 
 
 The Cinco Llagas and the Encarnacion, after a proper exchange of
@@ -4836,7 +4755,6 @@ grizzled beard.
 
 “Virgen santisima! That brother of mine has a mind that thinks of
 everything. Left to myself, I might have committed a fine indiscretion
-by venturing aboard his ship at such a moment. I might have seen things
 which as Admiral of Spain it would be difficult for me to ignore.”
 
 Both Esteban and Blood made haste to agree with him, and then Blood
@@ -5012,7 +4930,6 @@ who had appropriated it.
 
 
 
-CHAPTER XIII. TORTUGA
 
 
 It is time fully to disclose the fact that the survival of the story of
@@ -5093,7 +5010,6 @@ proceeded not only from adventurous buccaneering acquaintances in the
 taverns of that evil haven of Tortuga, but even from M. d'Ogeron, the
 governor of the island, who levied as his harbour dues a percentage of
 one tenth of all spoils brought into the bay, and who profited further
-by commissions upon money which he was desired to convert into bills of
 exchange upon France.
 
 A trade that might have worn a repellent aspect when urged by greasy,
@@ -5329,7 +5245,6 @@ ebb,” he announced, and went off to his cabin.
 
 
 
-CHAPTER XIV. LEVASSEUR'S HEROICS
 
 
 It would be somewhere about ten o'clock on the following morning, a
@@ -5676,7 +5591,6 @@ Ogeron to come to terms.”
 
 Presently the four vessels lay to off the northern coast of La Virgen
 Magra, a narrow little island arid and treeless, some twelve miles
-by three, uninhabited save by birds and turtles and unproductive of
 anything but salt, of which there were considerable ponds to the south.
 
 Levasseur put off in a boat accompanied by Cahusac and two other
@@ -5704,7 +5618,6 @@ and tobacco, which at most would fetch a bare twenty thousand pieces.
 But Levasseur answered him, as he had answered Cahusac, that a ship was
 a ship, and it was ships they needed against their projected enterprise.
 Perhaps because things had gone well with him that day, Blood ended
-by shrugging the matter aside. Thereupon Levasseur proposed that the
 Arabella and her prize should return to Tortuga there to unload the
 cacao and enlist the further adventurers that could now be shipped.
 Levasseur meanwhile would effect certain necessary repairs, and
@@ -5728,7 +5641,6 @@ storm; but he did not permit concern to trouble him unduly.
 
 
 
-CHAPTER XV. THE RANSOM
 
 
 In the glory of the following morning, sparkling and clear after the
@@ -5875,7 +5787,6 @@ prisoners.
 M. d'Ogeron stood tense and braced as before, but the grey horror had
 left his face. Hope had leapt within him at this interruption, obviously
 as little expected by his tormentor as by himself. His sister, moved
-by a similar intuition, was leaning forward with parted lips and gaping
 eyes.
 
 Captain Blood fingered his lip, and frowned thoughtfully upon Levasseur.
@@ -6252,7 +6163,6 @@ eyes of Miss Bishop could she but witness it.
 
 
 
-CHAPTER XVI. THE TRAP
 
 
 That affair of Mademoiselle d'Ogeron bore as its natural fruit an
@@ -6298,7 +6208,6 @@ that he was a papist only when it suited him.
 The dispute was being conducted by Hagthorpe, Wolverstone, and Pitt on
 the one side, and Cahusac, out of whose uneasiness it all arose, on the
 other. Behind them in the sun-scorched, dusty square, sparsely fringed
-by palms, whose fronds drooped listlessly in the quivering heat, surged
 a couple of hundred wild fellows belonging to both parties, their own
 excitement momentarily quelled so that they might listen to what passed
 among their leaders.
@@ -6708,7 +6617,6 @@ Felipe, to consider their position.
 
 
 
-CHAPTER XVII. THE DUPES
 
 
 It was a crestfallen Captain Blood who presided over that hastily
@@ -6719,7 +6627,6 @@ conducted the engagement with a skill of which he might justly be proud,
 having destroyed a force so superior in ships and guns and men that Don
 Miguel de Espinosa had justifiably deemed it overwhelming, his victory
 was rendered barren by three lucky shots from an unsuspected battery
-by which they had been surprised. And barren must their victory remain
 until they could reduce the fort that still remained to defend the
 passage.
 
@@ -6730,7 +6637,6 @@ and mortification, emotions which will render unreasonable the most
 reasonable of men. With returning calm, he surveyed the situation. The
 Arabella was no longer in case to put to sea; the Infanta was merely
 kept afloat by artifice, and the San Felipe was almost as sorely damaged
-by the fire she had sustained from the buccaneers before surrendering.
 
 Clearly, then, he was compelled to admit in the end that nothing
 remained but to return to Maracaybo, there to refit the ships before
@@ -6748,7 +6654,7 @@ body of his own followers.
 “It is the end,” he told Captain Blood. “This time we are checkmated.”
 
 “I'll take the liberty of reminding you that you said the same before,”
- Captain Blood answered him as patiently as he could. “Yet you've seen
+Captain Blood answered him as patiently as he could. “Yet you've seen
 what you've seen, and you'll not deny that in ships and guns we are
 returning stronger than we went. Look at our present fleet, man.”
 
@@ -6803,7 +6709,6 @@ canoes which we shall take with us for that purpose. If your excellency
 should be so ill-advised as to refuse these terms, and thereby impose
 upon me the necessity of reducing your fort at the cost of some lives, I
 warn you that you may expect no quarter from us, and that I shall begin
-by leaving a heap of ashes where this pleasant city of Maracaybo now
 stands.”
 
 The letter written, he bade them bring him from among the prisoners
@@ -6838,9 +6743,8 @@ settle it. Take you that message back.”
 So back to Maracaybo, back to his own handsome house in which Captain
 Blood had established his quarters, came the Deputy-Governor with the
 Admiral's answer. And because he had been shamed into a show of spirit
-by the Admiral's own stout courage in adversity, he delivered it as
 truculently as the Admiral could have desired. “And is it like that?”
- said Captain Blood with a quiet smile, though the heart of him sank
+said Captain Blood with a quiet smile, though the heart of him sank
 at this failure of his bluster. “Well, well, it's a pity now that the
 Admiral's so headstrong. It was that way he lost his fleet, which was
 his own to lose. This pleasant city of Maracaybo isn't. So no doubt
@@ -7105,7 +7009,6 @@ He raised his telescope to continue his observation of the buccaneers.
 He saw that the piraguas towed by each vessel were being warped
 alongside, and he wondered a little what this manoeuver might portend.
 Awhile those piraguas were hidden from view behind the hulls. Then one
-by one they reappeared, rowing round and away from the ships, and each
 boat, he observed, was crowded with armed men. Thus laden, they were
 headed for the shore, at a point where it was densely wooded to the
 water's edge. The eyes of the wondering Admiral followed them until the
@@ -7282,7 +7185,6 @@ For many a month thereafter he was to hear in Tortuga the jeering taunt:
 
 
 
-CHAPTER XVIII. THE MILAGROSA
 
 
 The affair at Maracaybo is to be considered as Captain Blood's
@@ -7406,7 +7308,6 @@ in which his great wealth was being amassed with an eagerness that had
 its roots in a desire to pay off a score of his own with Peter Blood.
 
 From his first coming to Jamaica, Colonel Bishop had made himself felt
-by the buccaneers. But do what he might, the one buccaneer whom he
 made his particular quarry--that Peter Blood who once had been his
 slave--eluded him ever, and continued undeterred and in great force
 to harass the Spaniards upon sea and land, and to keep the relations
@@ -7577,7 +7478,6 @@ voice.
 “Yes--a French buccaneer named Levasseur. He was the girl's lover and
 Blood's associate on a venture. Blood coveted the girl, and killed
 Levasseur to win her. Pah! It's an unsavoury tale, I own. But men live
-by different codes out in these parts....”
 
 She had turned to face him. She was pale to the lips, and her hazel eyes
 were blazing, as she cut into his apologies for Blood.
@@ -7765,7 +7665,7 @@ a rich man; and you, milord, are no doubt also rich. I will consider and
 fix your ransom.”
 
 “So that you're just the damned murderous pirate I was supposing you,”
- stormed his lordship. “And you have the impudence to call yourself
+stormed his lordship. “And you have the impudence to call yourself
 the Admiral of the Navies of the Catholic King? We shall see what your
 Catholic King will have to say to it.”
 
@@ -7800,7 +7700,6 @@ answering.
 
 
 
-CHAPTER XIX. THE MEETING
 
 
 As the door slammed after the departing Admiral, Lord Julian turned to
@@ -7837,7 +7736,7 @@ think of them now, like the illusions of some evil dream. Are men just
 beasts?”
 
 “Men?” said Lord Julian, staring. “Say Spaniards, and I'll agree.”
- He was an Englishman speaking of hereditary foes. And yet there was a
+He was an Englishman speaking of hereditary foes. And yet there was a
 measure of truth in what he said. “This is the Spanish way in the New
 World. Faith, almost it justifies such men as Blood of what they do.”
 
@@ -7967,7 +7866,7 @@ accept battle against such odds. But there are times when discretion is
 a better quality than gallantry in a commander.”
 
 “Gallantry will often win through, even against overwhelming strength,”
- said Miss Bishop. He looked at her, and noted in her bearing only
+said Miss Bishop. He looked at her, and noted in her bearing only
 excitement. Of fear he could still discern no trace. His lordship was
 past amazement. She was not by any means the kind of woman to which life
 had accustomed him.
@@ -8031,7 +7930,6 @@ emptied themselves at that point-blank range into the hulls of the two
 Spanish vessels.
 
 Half stunned by that reverberating thunder, and thrown off her balance
-by the sudden lurch of the ship under her feet, Miss Bishop hurtled
 violently against Lord Julian, who kept his feet only by clutching
 the rail on which he had been leaning. Billowing clouds of smoke to
 starboard blotted out everything, and its acrid odour, taking them
@@ -8093,7 +7991,6 @@ was sweeping, led by a one-eyed giant, who was naked to the waist, stood
 Don Miguel, numbed by despair and rage. Above and behind him on the
 poop, Lord Julian and Miss Bishop looked on, his lordship aghast at the
 fury of this cooped-up fighting, the lady's brave calm conquered at last
-by horror so that she reeled there sick and faint.
 
 Soon, however, the rage of that brief fight was spent. They saw the
 banner of Castile come fluttering down from the masthead. A buccaneer
@@ -8246,7 +8143,6 @@ departed.
 
 
 
-CHAPTER XX. THIEF AND PIRATE
 
 
 Captain Blood paced the poop of his ship alone in the tepid dusk, and
@@ -8255,7 +8151,6 @@ had just lighted the three lamps. About him all was peace. The signs of
 the day's battle had been effaced, the decks had been swabbed, and order
 was restored above and below. A group of men squatting about the main
 hatch were drowsily chanting, their hardened natures softened, perhaps,
-by the calm and beauty of the night. They were the men of the larboard
 watch, waiting for eight bells which was imminent.
 
 Captain Blood did not hear them; he did not hear anything save the echo
@@ -8553,11 +8448,11 @@ frankly, ma'am, that in Blood's place I should never have been so nice.
 Sink me! When you consider what he has suffered at the hands of his
 fellow-countrymen, you may marvel with me that he should trouble to
 discriminate between Spanish and English. To be sold into slavery! Ugh!”
- His lordship shuddered. “And to a damned colonial planter!” He checked
+His lordship shuddered. “And to a damned colonial planter!” He checked
 abruptly. “I beg your pardon, Miss Bishop. For the moment....”
 
 “You were carried away by your heat in defence of this... sea-robber.”
- Miss Bishop's scorn was almost fierce.
+Miss Bishop's scorn was almost fierce.
 
 His lordship stared at her again. Then he half-closed his large, pale
 eyes, and tilted his head a little. “I wonder why you hate him so,” he
@@ -8743,7 +8638,6 @@ infernally complex,” he sighed.
 
 
 
-CHAPTER XXI. THE SERVICE OF KING JAMES
 
 
 Miss Arabella Bishop was aroused very early on the following morning by
@@ -9331,7 +9225,6 @@ acquaintance there.”
 
 
 
-CHAPTER XXII. HOSTILITIES
 
 
 In the great harbour of Port Royal, spacious enough to have given
@@ -9359,11 +9252,11 @@ directions of Hayton, the bo'sun, the swabbers were at work in the
 waist and forecastle. Despite the heat and the stagnant air, one of the
 toilers found breath to croak a ribald buccaneering ditty:
 
-  “For we laid her board and board,
-   And we put her to the sword,
-   And we sank her in the deep blue sea.
-   So It's heigh-ho, and heave-a-ho!
-   Who'll sail for the Main with me?”
+“For we laid her board and board,
+And we put her to the sword,
+And we sank her in the deep blue sea.
+So It's heigh-ho, and heave-a-ho!
+Who'll sail for the Main with me?”
 
 Blood fetched a sigh, and the ghost of a smile played over his lean,
 sun-tanned face. Then the black brows came together above the vivid
@@ -9464,7 +9357,7 @@ shadow.
 
 He sought comfort in a line on the open page before him:
 
-  “levius fit patientia quicquid corrigere est nefas.”
+“levius fit patientia quicquid corrigere est nefas.”
 
 Sought it, but hardly found it.
 
@@ -9605,7 +9498,7 @@ as she feared he would.
 “Aye--a deal of lies, devil a doubt, as I could prove to you.”
 
 “I cannot think why you should trouble to put yourself on your defence,”
- she discouraged him.
+she discouraged him.
 
 “So that ye may think less badly of me than you do.”
 
@@ -9698,7 +9591,6 @@ significance of what he had said.
 
 
 
-CHAPTER XXIII. HOSTAGES
 
 
 Peter Blood stood in the pillared portico of Government House, and with
@@ -9756,7 +9648,7 @@ counsels. Why, this thing is... it's just mutiny... treason! By God!
 It's matter for a court-martial.”
 
 “Will you cease your blather of mutiny and treason and courts-martial?”
- Blood put on his hat, and sat down unbidden. “I have sent Wolverstone
+Blood put on his hat, and sat down unbidden. “I have sent Wolverstone
 to inform Hagthorpe and Christian and Yberville and the rest of my lads
 that they've one clear month in which to follow my example, quit piracy,
 and get back to their boucans or their logwood, or else sail out of the
@@ -9832,7 +9724,7 @@ a worse when you gave him the King's commission, and so sheltered the
 rascal from the gallows I had prepared for him in Port Royal.”
 
 “Aye--but the worst mistake of all in this matter of commissions,”
- said Blood to his lordship, “was the one that trade this greasy slaver
+said Blood to his lordship, “was the one that trade this greasy slaver
 Deputy-Governor of Jamaica instead of its hangman, which is the office
 for which he's by nature fitted.”
 
@@ -9995,7 +9887,6 @@ they went, Blood was chatting and laughing briskly.
 
 They passed out of the gates unchallenged, and so came to the mole where
 the cock-boat from the Arabella was waiting. They took their places side
-by side in the stern sheets, and were pulled away together, always very
 close and friendly, to the great red ship where Jeremy Pitt so anxiously
 awaited news.
 
@@ -10176,7 +10067,7 @@ escorted him to the entrance ladder at the foot of which still swung the
 Arabella's own cock-boat.
 
 “It's good-bye, my lord,” said Blood. “And there's another thing.”
- He proffered a parchment that he had drawn from his pocket. “It's the
+He proffered a parchment that he had drawn from his pocket. “It's the
 commission. Bishop was right when he said it was a mistake.”
 
 Lord Julian considered him, and considering him his expression softened.
@@ -10240,7 +10131,6 @@ fleet to hinder her departure. Lord Julian had carried the message
 effectively, and had added to it his own personal commands.
 
 
-CHAPTER XXIV. WAR
 
 
 Five miles out at sea from Port Royal, whence the details of the coast
@@ -10762,7 +10652,6 @@ Blood's career were running out.
 
 
 
-CHAPTER XXV. THE SERVICE OF KING LOUIS
 
 
 Meanwhile, some three months before Colonel Bishop set out to reduce
@@ -10949,7 +10838,7 @@ But was it worthertrouble? I'm norrer pirate now; never a pirate again.
 'S finished'” He banged the table, his eyes suddenly fierce.
 
 “I'll come and talk to you again when there's less rum in your wits,”
- said Wolverstone, rising. “Meanwhile ye'll please to remember the tale
+said Wolverstone, rising. “Meanwhile ye'll please to remember the tale
 I've told, and say nothing that'll make me out a liar. They all believes
 me, even the men as sailed wi' me from Port Royal. I've made 'em. If
 they thought as how you'd taken the King's commission in earnest, and
@@ -11043,7 +10932,6 @@ raised again, and Captain Blood was left to his idle abstraction.
 But at last, as his buccaneers were growing desperate, something
 happened, brought about by the Captain's friend M. d'Ogeron. One sunny
 morning the Governor of Tortuga came aboard the Arabella, accompanied
-by a chubby little gentleman, amiable of countenance, amiable and
 self-sufficient of manner.
 
 “My Captain,” M. d'Ogeron delivered himself, “I bring you M. de Cussy,
@@ -11133,7 +11021,6 @@ deal upon himself to exceed them. The buccaneers were firm. Unless M. de
 Cussy could make it one fifth there was no more to be said. M. de Cussy
 finally consenting to exceed his instructions, the articles were drawn
 up and signed that very day. The buccaneers were to be at Petit Goave
-by the end of January, when M. de Rivarol had announced that he might be
 expected.
 
 After that followed days of activity in Tortuga, refitting the ships,
@@ -11151,7 +11038,6 @@ they entered the service of Louis XIV or of Satan.
 
 
 
-CHAPTER XXVI. M. de RIVAROL
 
 
 Captain Blood was still in that disgruntled mood when he sailed from
@@ -11198,7 +11084,7 @@ remaining to mark a distinction between himself and them. He put on his
 hat.
 
 “Ye're very wise now,” said Blood amiably. “I feel the draught myself.”
- And he covered himself with his plumed castor.
+And he covered himself with his plumed castor.
 
 M. de Rivarol changed colour. He quivered visibly with anger, and was
 a moment controlling himself before venturing to speak. M. de Cussy was
@@ -11249,7 +11135,7 @@ exasperation. This pirate was too infernally skillful a fencer.
 “I am quite certain that I will not.”
 
 Captain Blood shrugged, and looked down his nose. “In that case,”
- said he, “it but remains for me to present my little account for our
+said he, “it but remains for me to present my little account for our
 disbursement, and to fix the sum at which we should be compensated for
 our loss of time and derangement in coming hither. That settled, we can
 part friends, M. le Baron. No harm has been done.”
@@ -11393,7 +11279,7 @@ matter which I beg you to reverse without delay.”
 M. de Rivarol's hawk-face flamed scarlet. His dark eyes bulged.
 
 “Sir, you... you are insolent! But of an insolence that is intolerable!”
- Normally a man of the utmost self-possession he was so rudely shaken now
+Normally a man of the utmost self-possession he was so rudely shaken now
 that he actually stammered.
 
 “M. le Baron, you waste words. This is the New World. It is not merely
@@ -11648,7 +11534,6 @@ passage.
 
 
 
-CHAPTER XXVII. CARTAGENA
 
 
 Having crossed the Caribbean in the teeth of contrary winds, it was not
@@ -11657,14 +11542,12 @@ Cartagena, and M. de Rivarol summoned a council aboard his flagship to
 determine the method of assault.
 
 “It is of importance, messieurs,” he told them, “that we take the city
-by surprise, not only before it can put itself into a state of defence;
 but before it can remove its treasures inland. I propose to land a
 force sufficient to achieve this to the north of the city to-night after
 dark.” And he explained in detail the scheme upon which his wits had
 laboured.
 
 He was heard respectfully and approvingly by his officers, scornfully
-by Captain Blood, and indifferently by the other buccaneer captains
 present. For it must be understood that Blood's refusal to attend
 councils had related only to those concerned with determining the nature
 of the enterprise to be undertaken.
@@ -11765,7 +11648,7 @@ very moment they are not conning our sails and asking themselves who we
 are and what we intend.”
 
 “But if they feel themselves secure from the north, as you suggest,”
- cried the Baron impatiently, “that very security will lull them.”
+cried the Baron impatiently, “that very security will lull them.”
 
 “Perhaps. But, then, they are secure. Any attempt to land on this side
 is doomed to failure at the hands of Nature.”
@@ -11934,7 +11817,7 @@ when Blood arrested him.
 
 “With submission, my General, we shall be better here. You behold there
 the scene of our coming action. It is spread before you like a map.”
- He waved his hand towards the lagoon, the country flanking it and
+He waved his hand towards the lagoon, the country flanking it and
 the considerable city standing back from the beach. “If it is not a
 presumption in me to offer a suggestion....” He paused. M. de Rivarol
 looked at him sharply, suspecting irony. But the swarthy face was bland,
@@ -12015,7 +11898,6 @@ the beach to convey the treasure aboard the ships.
 
 
 
-CHAPTER XXVIII. THE HONOUR OF M. DE RIVAROL
 
 
 During the capitulation and for some time after, Captain Blood and the
@@ -12270,7 +12152,7 @@ nodded, listening.
 
 “Ten miles away, perhaps fifteen--somewhere off Port Royal, I should
 judge,” Pitt added. Then he looked at his captain. “Does it concern us?”
- he asked.
+he asked.
 
 “Guns off Port Royal... that should argue Colonel Bishop at work. And
 against whom should he be in action but against friends of ours I think
@@ -12313,7 +12195,6 @@ rescued.
 
 
 
-CHAPTER XXIX. THE SERVICE OF KING WILLIAM
 
 
 One of the boats bumped alongside the Arabella, and up the entrance
@@ -12355,7 +12236,7 @@ it matter for laughter. Since for my sins I happen to be with you, I'm
 damned if I do.”
 
 “There's a misapprehension, if I may make so bold as to point it out,”
- put in Blood quietly. “You are not captured, gentlemen; you are rescued.
+put in Blood quietly. “You are not captured, gentlemen; you are rescued.
 When you realize it, perhaps it will occur to you to acknowledge the
 hospitality I am offering you. It may be poor, but it is the best at my
 disposal.”
@@ -12410,7 +12291,6 @@ dethroned and banished, there was an end to his own outlawry for his
 alleged share in an earlier attempt to drive out that tyrant. It became
 possible for him to return home and take up his life again at the point
 where it was so unfortunately interrupted four years ago. He was dazzled
-by the prospect so abruptly opened out to him. The thing so filled his
 mind, moved him so deeply, that he must afford it expression. In doing
 so, he revealed of himself more than he knew or intended to the astute
 little gentleman who watched him so keenly the while.
@@ -12467,7 +12347,7 @@ He leaves Port Royal unguarded save by a ramshackle fort that can be
 reduced to rubble in an hour. Stab me! It's unbelievable!”
 
 The lingering smile faded from Blood's face. “Is Rivarol aware of this?”
- he cried sharply.
+he cried sharply.
 
 It was the Dutch Admiral who answered him. “Vould he go dere if he were
 not? M. de Rivarol he take some of our men prisoners. Berhabs dey dell
@@ -12534,7 +12414,6 @@ day's much older.”
 
 
 
-CHAPTER XXX. THE LAST FIGHT OF THE ARABELLA
 
 
 “VHY do you vait, my friend?” growled van der Kuylen.
@@ -12699,11 +12578,9 @@ fire upon the grapnel crew.
 Starboard to starboard the two ships swung against each other with a
 jarring thud. By then Blood was down in the waist, judging and acting
 with the hurricane speed the occasion demanded. Sail had been lowered
-by slashing away the ropes that held the yards. The advance guard of
 boarders, a hundred strong, was ordered to the poop, and his grapnel-men
 were posted, and prompt to obey his command at the very moment of
 impact. As a result, the foundering Arabella was literally kept afloat
-by the half-dozen grapnels that in an instant moored her firmly to the
 Victorieuse.
 
 Willoughby and van der Kuylen on the poop had watched in breathless
@@ -12713,7 +12590,6 @@ the charge, the main host of the buccaneers following him, whilst the
 vanguard, led by the gunner Ogle, who had been driven from his guns by
 water in the gun-deck, leapt shouting to the prow of the Victorieuse, to
 whose level the high poop of the water-logged Arabella had sunk. Led now
-by Blood himself, they launched themselves upon the French like hounds
 upon the stag they have brought to bay. After them went others, until
 all had gone, and none but Willoughby and the Dutchman were left to
 watch the fight from the quarter-deck of the abandoned Arabella.
@@ -12769,7 +12645,6 @@ the filth of his cheeks.
 
 
 
-CHAPTER XXXI. HIS EXCELLENCY THE GOVERNOR
 
 
 When the cost of that victory came to be counted, it was found that of
@@ -12923,7 +12798,7 @@ Bishop's homing squadron was in sight.
 “That is very well,” said Blood. “I am glad he comes before Lord
 Willoughby's departure. The orders, Major, are that you place him under
 arrest the moment he steps ashore. Then bring him here to me. A moment.”
- He wrote a hurried note. “That to Lord Willoughby aboard Admiral van der
+He wrote a hurried note. “That to Lord Willoughby aboard Admiral van der
 Kuylen's flagship.”
 
 Major Mallard saluted and departed. Peter Blood sat back in his chair

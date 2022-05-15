@@ -1,41 +1,4 @@
 
-
-
-
-The Man Who Was Thursday
-
-A Nightmare
-
-by G. K. Chesterton
-
-
-Contents
-
- A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
- THE MAN WHO WAS THURSDAY
-
- CHAPTER I. THE TWO POETS OF SAFFRON PARK
- CHAPTER II. THE SECRET OF GABRIEL SYME
- CHAPTER III. THE MAN WHO WAS THURSDAY
- CHAPTER IV. THE TALE OF A DETECTIVE
- CHAPTER V. THE FEAST OF FEAR
- CHAPTER VI. THE EXPOSURE
- CHAPTER VII. THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
- CHAPTER VIII. THE PROFESSOR EXPLAINS
- CHAPTER IX. THE MAN IN SPECTACLES
- CHAPTER X. THE DUEL
- CHAPTER XI. THE CRIMINALS CHASE THE POLICE
- CHAPTER XII. THE EARTH IN ANARCHY
- CHAPTER XIII. THE PURSUIT OF THE PRESIDENT
- CHAPTER XIV. THE SIX PHILOSOPHERS
- CHAPTER XV. THE ACCUSER
-
-
-
-
-A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
-
-
 It is very difficult to classify THE MAN WHO WAS THURSDAY. It is
 possible to say that it is a gripping adventure story of murderous
 criminals and brilliant policemen; but it was to be expected that the
@@ -53,14 +16,6 @@ for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
 discover who Sunday is.
 
-
-
-
-THE MAN WHO WAS THURSDAY
-A NIGHTMARE
-
-
-To Edmund Clerihew Bentley
 
 A cloud was on the mind of men, and wailing went the weather,
 Yea, a sick cloud upon the soul when we were boys together.
@@ -109,13 +64,10 @@ Yea, there is strength in striking root and good in growing old.
 We have found common things at last and marriage and a creed,
 And I may safely write it now, and you may safely read.
 
-G. K. C.
 
 
 
 
-CHAPTER I.
-THE TWO POETS OF SAFFRON PARK
 
 
 The suburb of Saffron Park lay on the sunset side of London, as red and
@@ -518,8 +470,6 @@ quitted their fantastic town.
 
 
 
-CHAPTER II.
-THE SECRET OF GABRIEL SYME
 
 
 The cab pulled up before a particularly dreary and greasy beershop,
@@ -854,8 +804,6 @@ the corridor.
 
 
 
-CHAPTER III.
-THE MAN WHO WAS THURSDAY
 
 
 Before one of the fresh faces could appear at the doorway, Gregory’s
@@ -1023,7 +971,6 @@ accident, there were here tonight a man who all his life had thus
 immensely misunderstood us, I would put this question to him: ‘When
 those Christians met in those Catacombs, what sort of moral reputation
 had they in the streets above? What tales were told of their atrocities
-by one educated Roman to another? Suppose’ (I would say to him),
 ‘suppose that we are only repeating that still mysterious paradox of
 history. Suppose we seem as shocking as the Christians because we are
 really as harmless as the Christians. Suppose we seem as mad as the
@@ -1288,8 +1235,6 @@ with the sword-stick as the steamboat slid away.
 
 
 
-CHAPTER IV.
-THE TALE OF A DETECTIVE
 
 
 Gabriel Syme was not merely a detective who pretended to be a poet; he
@@ -1663,8 +1608,6 @@ spoken a word.
 
 
 
-CHAPTER V.
-THE FEAST OF FEAR
 
 
 At first the large stone stair seemed to Syme as deserted as a pyramid;
@@ -1826,7 +1769,6 @@ would scream aloud. He remembered that as a child he would not look at
 the mask of Memnon in the British Museum, because it was a face, and so
 large.
 
-By an effort, braver than that of leaping over a cliff, he went to an
 empty seat at the breakfast-table and sat down. The men greeted him
 with good-humoured raillery as if they had always known him. He sobered
 himself a little by looking at their conventional coats and solid,
@@ -1976,8 +1918,6 @@ frightful to see.
 
 
 
-CHAPTER VI.
-THE EXPOSURE
 
 
 Such were the six men who had sworn to destroy the world. Again and
@@ -2166,7 +2106,7 @@ certainty that the President was wrong and that the barrel-organ was
 right. There clanged in his mind that unanswerable and terrible truism
 in the song of Roland—
 
-    “Païens ont tort et Chrétiens ont droit,”
+“Païens ont tort et Chrétiens ont droit,”
 
 which in the old nasal French has the clang and groan of great iron.
 This liberation of his spirit from the load of his weakness went with a
@@ -2280,8 +2220,6 @@ palsy of passionate relief.
 
 
 
-CHAPTER VII.
-THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
 
 
 “Sit down!” said Sunday in a voice that he used once or twice in his
@@ -2600,8 +2538,6 @@ carefully, and asked for a glass of milk.
 
 
 
-CHAPTER VIII.
-THE PROFESSOR EXPLAINS
 
 
 When Gabriel Syme found himself finally established in a chair, and
@@ -3098,8 +3034,6 @@ Professor de Worms nodded and drained his glass.
 
 
 
-CHAPTER IX.
-THE MAN IN SPECTACLES
 
 
 “Burgundy is a jolly thing,” said the Professor sadly, as he set his
@@ -3293,7 +3227,6 @@ thought. Or it was like the stunning statements of astronomy about the
 distance of the fixed stars. He was ascending the house of reason, a
 thing more hideous than unreason itself.
 
-By the time they reached Dr. Bull’s landing, a last window showed them
 a harsh, white dawn edged with banks of a kind of coarse red, more like
 red clay than red cloud. And when they entered Dr. Bull’s bare garret
 it was full of light.
@@ -3715,8 +3648,6 @@ a light yellow straw hat and outlined against the violet sea.
 
 
 
-CHAPTER X.
-THE DUEL
 
 
 Syme sat down at a café table with his companions, his blue eyes
@@ -4166,7 +4097,6 @@ Godforsaken, doddering, damned fool!” he said without taking breath.
 “You shall not go by this train,” repeated Syme.
 
 “And why the infernal blazes,” roared the other, “should I want to go
-by the train?”
 
 “We know all,” said the Professor sternly. “You are going to Paris to
 throw a bomb!”
@@ -4337,8 +4267,6 @@ smiled on one side.
 
 
 
-CHAPTER XI.
-THE CRIMINALS CHASE THE POLICE
 
 
 Syme put the field-glasses from his eyes with an almost ghastly relief.
@@ -4648,14 +4576,12 @@ Almost as he spoke, the old innkeeper with the blue eyes and white hair
 came ambling into the room, and announced that six horses were saddled
 outside.
 
-By Ducroix’s advice the five others equipped themselves with some
 portable form of food and wine, and keeping their duelling swords as
 the only weapons available, they clattered away down the steep, white
 road. The two servants, who had carried the Marquis’s luggage when he
 was a marquis, were left behind to drink at the café by common consent,
 and not at all against their own inclination.
 
-By this time the afternoon sun was slanting westward, and by its rays
 Syme could see the sturdy figure of the old innkeeper growing smaller
 and smaller, but still standing and looking after them quite silently,
 the sunshine in his silver hair. Syme had a fixed, superstitious fancy,
@@ -4673,8 +4599,6 @@ cloud of locusts. The horses had been saddled none too soon.
 
 
 
-CHAPTER XII.
-THE EARTH IN ANARCHY
 
 
 Urging the horses to a gallop, without respect to the rather rugged
@@ -5347,8 +5271,6 @@ know. I am now going on shore to stand a drink to everybody here.”
 
 
 
-CHAPTER XIII.
-THE PURSUIT OF THE PRESIDENT
 
 
 Next morning five bewildered but hilarious people took the boat for
@@ -5601,7 +5523,6 @@ Ratcliffe. When that gentleman opened it, not without impatience, he
 found it contained the words:—
 
 “Fly at once. The truth about your trouser-stretchers is known.—A
-FRIEND.”
 
 
 The fire-engine had struck still farther to the north, into a region
@@ -5682,7 +5603,6 @@ keeper eagerly.
 you’re quite sure that he’s a large and fat old gentleman in grey
 clothes, you may take my word for it that the elephant has not run away
 with him. He has run away with the elephant. The elephant is not made
-by God that could run away with him if he did not consent to the
 elopement. And, by thunder, there he is!”
 
 There was no doubt about it this time. Clean across the space of grass,
@@ -5775,7 +5695,7 @@ The Secretary, raging, rent it open, and found written inside it:—
 Let the Secretary smile;
 When the herring tries to _fly_,
 Let the Secretary die.
-                    Rustic Proverb.”
+Rustic Proverb.”
 
 
 “Why the eternal crikey,” began the Secretary, “did you let the man in?
@@ -5825,8 +5745,6 @@ follow it!”
 
 
 
-CHAPTER XIV.
-THE SIX PHILOSOPHERS
 
 
 Across green fields, and breaking through blooming hedges, toiled six
@@ -6282,8 +6200,6 @@ disguise, but reveal.
 
 
 
-CHAPTER XV.
-THE ACCUSER
 
 
 As Syme strode along the corridor he saw the Secretary standing at the
