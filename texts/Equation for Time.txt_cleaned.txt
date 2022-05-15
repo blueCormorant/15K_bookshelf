@@ -1,17 +1,4 @@
 
-
-
-
-                          EQUATION _for_ TIME
-
-                         by R. R. WINTERBOTHAM
-
-           [Transcriber's Note: This etext was produced from
-                          Comet December 40.
-         Extensive research did not uncover any evidence that
-         the U.S. copyright on this publication was renewed.]
-
-
 There is no one today who has seen a living horse. The creature became
 extinct a couple of centuries ago, about the year 2,800. Man, who
 betrayed the horse into what he became, hardly regretted the passing.
@@ -238,7 +225,6 @@ used in welding the rockets of space ships.
 It was evident that Gustav Keeshwar intended to finish Trella Mayo
 whether I would help him or not.
 
-       *       *       *       *       *
 
 A few weeks later I visited Trella in her laboratory.
 
@@ -346,7 +332,6 @@ motor, which operated automatically, began pulling the other half,
 including the first motor, after it as soon as it materialized at the
 end of the journey.
 
-By means of radio signals the exact location of every explored planet
 had been determined. It was therefore only a matter of mathematical
 calculation to find the target. There was some risk, of course, if a
 mathematical error were made in computing the range but considering the
@@ -385,15 +370,12 @@ time we do not travel in lines perpendicular to the parallel time lines
 of the earth and Rihlon--or for any other planet for that matter. But
 we travel like this--" Trella drew a figure on a piece of paper.
 
-[Illustration:
 
-    A      G    E    B
-    -------+----+------
-            \   |
-             \  |
-              \ |
-    C          \|F   D
-    ------------+-----
+-------+----+------
+\   |
+\  |
+\ |
+------------+-----
 
 Figure 1]
 
@@ -534,7 +516,6 @@ be accomplished without rationalizing irrational numbers, our problem
 would be solved. But the nearest date in the future when this could be
 done was three years ahead.[1]
 
-[Footnote 1: Three years from the time this accident occurred would
 make the sides of the triangle between the past event, the present, and
 the present on Rihlon (four light years away) equal to the units 3, 4
 and 5. Three squared, plus four squared equals five squared.]
@@ -554,17 +535,14 @@ that form a rational triangle?"
 
 I took paper and pencil and tried to figure it out.
 
-[Illustration:
 
-    B      E               H         A
-    -------+---------------+----------
-           |              /|
-           |             / |
-           |            /  |
-           |           /   |
-           |          /    |
-    -------+---------+-----+----------
-    C      F         G     J         D
+-------+---------------+----------
+|              /|
+|             / |
+|            /  |
+|           /   |
+|          /    |
+-------+---------+-----+----------
 
 Figure 2]
 
@@ -582,7 +560,6 @@ was clearly and completely solved. The secret of time travel was
 solved. Trella was saved. The invention of the translator had been
 perfected so that all danger of becoming lost in time was removed![2]
 
-[Footnote 2: As a mental exercise, I would suggest that the reader look
 at Figure 2 for a minute or two and figure out the answer. The answer
 is there and high school mathematics should enable a person to discover
 how to extract the irrational number.--Dr. Fred Huckins.]
@@ -632,7 +609,6 @@ to glance in my direction, as if a million dollars were a trifling
 matter, until we were alone.
 
 I judged Keeshwar right. When at last he glanced at me he was unnerved
-by the presence of an automatic pistol which was pointed directly at
 his head.
 
 "I must warn you not to touch any of those buttons on your desk," I
@@ -654,7 +630,6 @@ exist any more," I warned casually. I reached into my pocket and
 brought out a silencer, which I fitted to the end of the pistol barrel.
 I unfastened the safety and aimed deliberately.
 
-       *       *       *       *       *
 
 The space ship containing the terrestrial half of Trella Mayo, in
 company with myself, Blake, two other scientists and Gustav Keeshwar,
