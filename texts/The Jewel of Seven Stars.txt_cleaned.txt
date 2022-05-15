@@ -1,53 +1,4 @@
 
-
-
-
-The Jewel of Seven Stars
-
-
-by
-
-Bram Stoker
-
-
-
-
-To Eleanor and Constance Hoyt
-
-
-
-
-Contents
-
-
-     I  A Summons in the Night
-    II  Strange Instructions
-   III  The Watchers
-    IV  The Second Attempt
-     V  More Strange Instructions
-    VI  Suspicions
-   VII  The Traveller’s Loss
-  VIII  The Finding of the Lamps
-    IX  The Need of Knowledge
-     X  The Valley of the Sorcerer
-    XI  A Queen’s Tomb
-   XII  The Magic Coffer
-  XIII  Awaking From the Trance
-   XIV  The Birth-Mark
-    XV  The Purpose of Queen Tera
-   XVI  The Cavern
-  XVII  Doubts and Fears
- XVIII  The Lesson of the “Ka”
-   XIX  The Great Experiment
-
-
-
-
-Chapter I
-
-A Summons in the Night
-
-
 It all seemed so real that I could hardly imagine that it had ever
 occurred before; and yet each episode came, not as a fresh step in the
 logic of things, but as something expected.  It is in such a wise that
@@ -142,7 +93,6 @@ and police have been sent for; but there is no one here whom I can
 depend on.  Come at once if you are able to; and forgive me if you can.
 I suppose I shall realise later what I have done in asking such a
 favour; but at present I cannot think.  Come!  Come at once! MARGARET
-TRELAWNY.”
 
 Pain and exultation struggled in my mind as I read; but the mastering
 thought was that she was in trouble and had called on me—me!  My
@@ -450,14 +400,6 @@ his ministrations. Superintendent Dolan said to me in a whisper:
 “I think we are fortunate in our doctor!” I nodded, and was about to
 add something in praise of his acumen, when there came a low tapping at
 the door.
-
-
-
-
-Chapter II
-
-Strange Instructions
-
 
 Superintendent Dolan went quietly to the door; by a sort of natural
 understanding he had taken possession of affairs in the room.  The rest
@@ -768,7 +710,6 @@ of them would thwart my plans.
 “Should you want money or counsel in anything, Mr. Marvin will carry
 out your wishes; to the which he has my full instructions.”
 
-          “ABEL TRELAWNY.”
 
 
 I read the letter a second time before speaking, for I feared to betray
@@ -853,14 +794,6 @@ woman in the dark dress of a nurse.
 
 “I have been fortunate!” he said as he came in.  “I found her at once
 and free. Miss Trelawny, this is Nurse Kennedy!”
-
-
-
-
-Chapter III
-
-The Watchers
-
 
 I was struck by the way the two young women looked at each other.  I
 suppose I have been so much in the habit of weighing up in my own mind
@@ -1276,21 +1209,11 @@ room was filled suddenly with a blaze of light.  There was the sound of
 pistol shots—one, two; and a haze of white smoke in the room.  When my
 waking eyes regained their power, I could have shrieked with horror
 myself at what I saw before me.
-
-
-
-
-Chapter IV
-
-The Second Attempt
-
-
 The sight which met my eyes had the horror of a dream within a dream,
 with the certainty of reality added.  The room was as I had seen it
 last; except that the shadowy look had gone in the glare of the many
 lights, and every article in it stood stark and solidly real.
 
-By the empty bed sat Nurse Kennedy, as my eyes had last seen her,
 sitting bolt upright in the arm-chair beside the bed.  She had placed a
 pillow behind her, so that her back might be erect; but her neck was
 fixed as that of one in a cataleptic trance.  She was, to all intents
@@ -1703,14 +1626,6 @@ her time for watching came.
 
 And so the night drew on.
 
-
-
-
-Chapter V
-
-More Strange Instructions
-
-
 When I came from my room at half-past eleven o’clock I found all well
 in the sick-room.  The new nurse, prim, neat, and watchful, sat in the
 chair by the bedside where Nurse Kennedy had sat last night.  A little
@@ -2112,7 +2027,6 @@ who is a stranger to me and of whom I never even heard till I got my
 Father’s letter, written to be shown to me only in extremity.  Mr. Ross
 is a new friend; but he has all my confidence, and I should like him to
 be present.  Unless, of course,” she added, “such a thing is forbidden
-by my Father.  Oh! forgive me, Mr. Marvin, if I seem rude; but I have
 been in such dreadful trouble and anxiety lately, that I have hardly
 command of myself.”  She covered her eyes with her hand for a few
 seconds; we two men looked at each other and waited, trying to appear
@@ -2205,13 +2119,6 @@ paroxysm of fear; there was a fixed idea of which this was a
 confirmation.  For myself, it seemed as if my brain had found a voice.
 But the voice was not complete; there was some other thought, darker
 and deeper, which lay behind it, whose voice had not sounded as yet.
-
-
-
-
-Chapter VI
-
-Suspicions
 
 
 The first to get full self-command was Miss Trelawny.  There was a
@@ -2398,7 +2305,6 @@ instinctively taking that deferential course which, until the plan of
 battle of the prosecution is unfolded, is so safe an attitude for the
 defence.  It would never do for me, at this stage, to combat any
 theories which a detective might form. I could best help Miss Trelawny
-by listening and understanding.  When the time should come for the
 dissipation and obliteration of the theories, I should be quite willing
 to use all my militant ardour, and all the weapons at my command.
 
@@ -2514,8 +2420,8 @@ toxicology.  In the other there is some influence at work which is not
 classified in any book that I know—outside the pages of romance.  I
 never felt in my life so strongly the truth of Hamlet’s words:
 
-     ‘There are more things in Heaven and earth....
-     Than are dreamt of in your philosophy.’
+‘There are more things in Heaven and earth....
+Than are dreamt of in your philosophy.’
 
 “Let us take the ‘Fact’ side first.  Here we have a man in his home;
 amidst his own household; plenty of servants of different classes in
@@ -2601,14 +2507,12 @@ example, in vaporeal form, its effects may be cumulative.  But then,
 what could there be that could produce such an effect?  The room is, I
 know, full of mummy smell; and no wonder, with so many relics from the
 tomb, let alone the actual mummy of that animal which Silvio attacked.
-By the way, I am going to test him tomorrow; I have been on the trace
 of a mummy cat, and am to get possession of it in the morning.  When I
 bring it here we shall find out if it be a fact that racial instinct
 can survive a few thousand years in the grave.  However, to get back to
 the subject in hand.  These very mummy smells arise from the presence
 of substances, and combinations of substances, which the Egyptian
 priests, who were the learned men and scientists of their time, found
-by the experience of centuries to be strong enough to arrest the
 natural forces of decay. There must be powerful agencies at work to
 effect such a purpose; and it is possible that we may have here some
 rare substance or combination whose qualities and powers are not
@@ -2706,13 +2610,6 @@ interrupted me on two such occasions when touching on such a theme.
 
 There was certainly some strange web of accidents, in whose meshes we
 were all involved.
-
-
-
-
-Chapter VII
-
-The Traveller’s Loss
 
 
 That night everything went well.  Knowing that Miss Trelawny herself
@@ -3149,14 +3046,6 @@ incomprehensible:
 “I don’t know how I know it; but know it I do.  I feel it all through
 me; as though it were a conviction which has been with me all my life!”
 
-
-
-
-Chapter VIII
-
-The Finding of the Lamps
-
-
 Sergeant Daw at first made some demur; but finally agreed to advise
 privately on a matter which might be suggested to him.  He added that I
 was to remember that he only undertook to advise; for if action were
@@ -3316,7 +3205,6 @@ take them seriatim, day by day, and examine them more closely.  In the
 hall was a sort of big frame of floriated steel work which Margaret
 said her father used for lifting the heavy stone lids of the
 sarcophagi.  It was not heavy and could be moved about easily enough.
-By aid of this we raised the covers in turn and looked at the endless
 series of hieroglyphic pictures cut in most of them.  In spite of her
 profession of ignorance Margaret knew a good deal about them; her year
 of life with her father had had unconsciously its daily and hourly
@@ -3511,9 +3399,7 @@ she was strangely excited.
 
 Whilst we looked, afraid to touch and almost afraid to think, there was
 a ring at the front door; immediately afterwards Mr. Corbeck, followed
-by Sergeant Daw, came into the hall.  The door of the boudoir was open,
 and when they saw us Mr. Corbeck came running in, followed more slowly
-by the Detective.  There was a sort of chastened joy in his face and
 manner as he said impulsively:
 
 “Rejoice with me, my dear Miss Trelawny, my luggage has come and all my
@@ -3534,14 +3420,6 @@ on Miss Trelawny whose back was toward him.
 There was in them the same look of suspicion which had been there when
 he had spoken to me of her being the first to find her father on the
 occasions of the attacks.
-
-
-
-
-Chapter IX
-
-The Need of Knowledge
-
 
 Mr. Corbeck seemed to go almost off his head at the recovery of the
 lamps.  He took them up one by one and looked them all over tenderly,
@@ -4036,12 +3914,6 @@ went to my spell of duty in the sick-room!
 
 
 
-
-Chapter X
-
-The Valley of the Sorcerer
-
-
 I placed the book on the little table on which the shaded lamp rested
 and moved the screen to one side.  Thus I could have the light on my
 book; and by looking up, see the bed, and the Nurse, and the door.  I
@@ -4516,15 +4388,6 @@ dearly loved; but she, who loved him equally, knew his longing to
 prosecute the search.  So keeping to herself, as all good women do, all
 her anxieties—which in her case were special—she bade him follow out
 his bent.”
-
-
-
-
-Chapter XI
-
-A Queen’s Tomb
-
-
 “Mr. Trelawny’s hope was at least as great as my own.  He is not so
 volatile a man as I am, prone to ups and downs of hope and despair; but
 he has a fixed purpose which crystallises hope into belief.  At times I
@@ -4929,14 +4792,6 @@ we looked.
 a hand of seven fingers, ivory white, the wrist only showing a scar
 like a jagged red line, from which seemed to depend drops of blood.”
 
-
-
-
-Chapter XII
-
-The Magic Coffer
-
-
 “When we recovered our amazement, which seemed to last unduly long, we
 did not lose any time carrying the mummy through the passage, and
 hoisting it up the Pit shaft.  I went first, to receive it at the top.
@@ -4968,7 +4823,7 @@ minute before he went on:
 to take ship by the Messagerie service to Marseilles, and go thence by
 express to London.  But
 
-     ‘The best-laid schemes o’ mice and men Gang aft agley.’
+‘The best-laid schemes o’ mice and men Gang aft agley.’
 
 At Alexandria, Trelawny found waiting a cable stating that Mrs.
 Trelawny had died in giving birth to a daughter.
@@ -5225,7 +5080,6 @@ each was wrought in burnished gold.  I pressed each star in turn; but
 without result.  Then it struck me that if the opening spring was on
 the left, this on the right might have been intended for the
 simultaneous pressure of all the stars by one hand of seven fingers.
-By using both my hands, I managed to effect this.
 
 “With a loud click, a metal figure seemed to dart from close to the
 opening of the serdab; the stone slowly swung back to its place, and
@@ -5330,14 +5184,6 @@ As he finished a clear young voice said behind us:
 We turned, startled; and looked at each other inquiringly.  Miss
 Trelawny stood in the doorway.  We did not know how long she had been
 present, or how much she had heard.
-
-
-
-
-Chapter XIII
-
-Awaking From the Trance
-
 
 The first unexpected words may always startle a hearer; but when the
 shock is over, the listener’s reason has asserted itself, and he can
@@ -5851,14 +5697,6 @@ phrases.
 Here the father and daughter went into the room together, and the door
 closed.
 
-
-
-
-Chapter XIV
-
-The Birth-Mark
-
-
 During my waiting for the summons to Mr. Trelawny’s room, which I knew
 would come, the time was long and lonely.  After the first few moments
 of emotional happiness at Margaret’s joy, I somehow felt apart and
@@ -6044,7 +5882,6 @@ to go on that journey of unknown danger to Egypt; though that country
 was then upset from end to end with war and the dangers that follow
 war. You have told me how she left you free to go as you wished; though
 that she thought of danger for you and feared it for you, is proved
-by this!”  She held up her wrist with the scar that seemed to run
 blood. “Now, mother’s daughter does as mother would have done herself!”
 Then she turned to me:
 
@@ -6325,14 +6162,6 @@ rightly, that the iron would endure.
 do not know, and we never shall, unless her own dead lips can soften
 and speak.”
 
-
-
-
-Chapter XV
-
-The Purpose of Queen Tera
-
-
 “Now, as to the Star Jewel!  This she manifestly regarded as the
 greatest of her treasures.  On it she had engraven words which none of
 her time dared to speak.
@@ -6450,8 +6279,8 @@ there are all the possibilities and capabilities of corporeal
 transference, guided always by an unimprisonable will or intelligence.”
 As he paused I murmured the lines from Shelley’s “Prometheus Unbound”:
 
-     “‘The Magnus Zoroaster....
-     Met his own image walking in the garden.’”
+“‘The Magnus Zoroaster....
+Met his own image walking in the garden.’”
 
 Mr. Trelawny was not displeased.  “Quite so!” he said, in his quiet
 way. “Shelley had a better conception of ancient beliefs than any of
@@ -6622,7 +6451,6 @@ of measurement, not by years, indeed, but by centuries.  It was by this
 means that Sir John Herschel arrived at the date of the building of the
 Great Pyramid—a date fixed by the time necessary to change the star of
 the true north from Draconis to the Pole Star, and since then verified
-by later discoveries.  From the above there can be no doubt whatever
 that astronomy was an exact science with the Egyptians at least a
 thousand years before the time of Queen Tera.  Now, the stars that go
 to make up a constellation change in process of time their relative
@@ -6741,13 +6569,6 @@ mechanism will not be impaired or destroyed.”
 His doubt as to this gave anxious thought to some of us.
 
 
-
-
-Chapter XVI
-
-The Cavern
-
-
 In the evening Mr. Trelawny took again the whole party into the study.
 When we were all attention he began to unfold his plans:
 
@@ -6854,7 +6675,6 @@ I slept that night without movement or without dreams; and on our
 comparing notes in the morning, I found that each of the others had had
 the same experience.
 
-By dinner-time next evening the whole work was complete, and all was
 ready for the carriers who were to come at midnight.  A little before
 the appointed time we heard the rumble of carts; then we were shortly
 invaded by an army of workmen, who seemed by sheer force of numbers to
@@ -7058,7 +6878,6 @@ confidence.  The positions of all those things which had connection
 with the Great Experiment were not indicated. The cases containing them
 were to be left in the outer hall, for the present.
 
-By the time we had made the survey, the carts began to arrive; and the
 stir and bustle of the previous night were renewed.  Mr. Trelawny stood
 in the hall beside the massive ironbound door, and gave directions as
 to the placing of each of the great packing-cases.  Those containing
@@ -7226,7 +7045,6 @@ not satisfied as to the exact day?”  He answered at once:
 many evidences that she looked for resurrection that naturally she
 would choose a period ruled over by a God specialised to such a
 purpose.  Now, the fourth month of the season of Inundation was ruled
-by Harmachis, this being the name for ‘Ra’, the Sun-God, at his rising
 in the morning, and therefore typifying the awakening or arising.  This
 arising is manifestly to physical life, since it is of the mid-world of
 human daily life.  Now as this month begins on our 25th July, the
@@ -7241,13 +7059,6 @@ to wait round for a needless number of days.”
 
 And so we waited only for the 31st of July, the next day but one, when
 the Great Experiment would be made.
-
-
-
-
-Chapter XVII
-
-Doubts and Fears
 
 
 We learn of great things by little experiences.  The history of ages is
@@ -7491,7 +7302,6 @@ away the sarcophagus; and the three on the return to the tomb.  The
 Arab who had opened the secret serdab.  Nine dead men, one of them
 slain manifestly by the Queen’s own hand!  And beyond this again the
 several savage attacks on Mr. Trelawny in his own room, in which, aided
-by her Familiar, she had tried to open the safe and to extract the
 Talisman jewel.  His device of fastening the key to his wrist by a
 steel bangle, though successful in the end, had wellnigh cost him his
 life.
@@ -7546,12 +7356,10 @@ courage, just exactly what the great Queen had arranged!”
 
 “But,” I answered, “that can hardly be.  All that she arranged was in a
 tomb high up in a rock, in a desert solitude, shut away from the world
-by every conceivable means. She seems to have depended on this
 isolation to insure against accident.  Surely, here in another country
 and age, with quite different conditions, she may in her anxiety make
 mistakes and treat any of you—of us—as she did those others in times
 gone past. Nine men that we know of have been slain by her own hand or
-by her instigation.  She can be remorseless if she will.”  It did not
 strike me till afterwards when I was thinking over this conversation,
 how thoroughly I had accepted the living and conscious condition of
 Queen Tera as a fact.  Before I spoke, I had feared I might offend Mr.
@@ -7667,7 +7475,6 @@ had hopes of spreading in a wider way the lofty aspirations of her
 soul! That she hoped to bring to the conquering of unknown worlds, and
 using to the advantage of her people, all that she had won from sleep
 and death and time; all of which might and could have been frustrated
-by the ruthless hand of an assassin or a thief.  Were it you, in such
 case would you not struggle by all means to achieve the object of your
 life and hope; whose possibilities grew and grew in the passing of
 those endless years?  Can you think that that active brain was at rest
@@ -7711,12 +7518,6 @@ inward thought behind them as are the eyes of a caged lion.
 
 Then the two other men came in, and the subject changed.
 
-
-
-
-Chapter XVIII
-
-The Lesson of the “Ka”
 
 
 That night we all went to bed early.  The next night would be an
@@ -8136,14 +7937,6 @@ Margaret was glorious with all her wonted sweetness as she said sadly:
 “The sun is down, Father!  Shall any of us see it again?  The night of
 nights is come!”
 
-
-
-
-Chapter XIX
-
-The Great Experiment
-
-
 If any evidence had been wanted of how absolutely one and all of us had
 come to believe in the spiritual existence of the Egyptian Queen, it
 would have been found in the change which in a few minutes had been
@@ -8223,7 +8016,6 @@ loudly, as though a strain had been taken from him.
 “It is as I expected,” he said.  “This promises well for what is to
 follow.”
 
-By this time Doctor Winchester was looking at the red stained paws.
 “As I expected!” he said.  “He has seven claws, too!”  Opening his
 pocket-book, he took out the piece of blotting-paper marked by Silvio’s
 claws, on which was also marked in pencil a diagram of the cuts made on
@@ -8367,7 +8159,6 @@ tonight!”
 My heart sank down, down, at her words; but I thought it better to say
 nothing.  Fear was stalking openly enough amongst us already!
 
-By this time Mr. Trelawny, assisted by Mr. Corbeck and Doctor
 Winchester, had raised the lid of the ironstone sarcophagus which
 contained the mummy of the Queen.  It was a large one; but it was none
 too big.  The mummy was both long and broad and high; and was of such
@@ -8493,7 +8284,6 @@ It was not right that we should be there, gazing with irreverent eyes
 on such unclad beauty:  it was indecent; it was almost sacrilegious!
 And yet the white wonder of that beautiful form was something to dream
 of. It was not like death at all; it was like a statue carven in ivory
-by the hand of a Praxiteles. There was nothing of that horrible
 shrinkage which death seems to effect in a moment.  There was none of
 the wrinkled toughness which seems to be a leading characteristic of
 most mummies. There was not the shrunken attenuation of a body dried in
@@ -8822,7 +8612,6 @@ one thing which confirmed our idea of the physical annihilation of the
 mummy.  In the sarcophagus in the hall, where we had placed the mummy
 of the cat, was a small patch of similar dust.
 
-*    *    *    *    *
 
 In the autumn Margaret and I were married.  On the occasion she wore
 the mummy robe and zone and the jewel which Queen Tera had worn in her
@@ -8848,7 +8637,6 @@ the dead. She dreamed her dream; and that is all that any of us can
 ask!”
 
 
-THE END
 
 
 
