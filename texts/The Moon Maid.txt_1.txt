@@ -1,34 +1,3 @@
-
-
-
-
-
-
-
-
-EDGAR RICE BURROUGHS
-
-
-
-
-THE
-MOON MAID
-
-
-
-
-THE MOON MAID
-
-
-Copyright 1923, by Frank A. Munsey Company
-New York
-
-
-
-
-PROLOGUE
-
-
 I met him in the Blue Room of the Transoceanic Liner _Harding_ the
 night of Mars Day—June 10, 1967. I had been wandering about the city
 for several hours prior to the sailing of the flier watching the
@@ -245,10 +214,8 @@ in mind—you cannot understand it, or at least I cannot. Here goes.”
 
 
 
-CHAPTER I
 
 
-AN ADVENTURE IN SPACE
 
 
 “I had intended telling you my story of the days of the twenty-second
@@ -292,7 +259,7 @@ recall them, but for various reasons, not the least of which is that
 I am lazy, I shall omit superfluous quotation marks—that is, with
 your permission, of course.
 
-    —————
+—————
 
 My name is Julian. I am called Julian 5th. I come of an illustrious
 family—my great-great-grandfather, Julian 1st, a major at twenty-two,
@@ -799,10 +766,8 @@ compass.”
 
 
 
-CHAPTER II
 
 
-THE SECRET OF THE MOON
 
 
 Norton, whose watch it was, had already hurried toward the pilot room
@@ -894,12 +859,12 @@ nobility of his character.
 and at once. You will, please, send the following message to the
 Secretary of Peace:
 
-    “U.S.S. _The Barsoom_, January 6, 2026, about twenty
-    thousand miles off the Moon. Lieutenant Commander
-    Orthis, while under the influence of liquor, has destroyed
-    auxiliary engine and opened exterior intake valve Lunar
-    Eighth Ray buoyancy tank. Ship sinking rapidly. Will
-    keep you—”
+“U.S.S. _The Barsoom_, January 6, 2026, about twenty
+thousand miles off the Moon. Lieutenant Commander
+Orthis, while under the influence of liquor, has destroyed
+auxiliary engine and opened exterior intake valve Lunar
+Eighth Ray buoyancy tank. Ship sinking rapidly. Will
+keep you—”
 
 Norton who had seated himself at the radio desk leaped suddenly to
 his feet and turned toward me. “My God, sir,” he cried, “he has
@@ -1242,10 +1207,8 @@ lowering days within the Moon, nor is there any night.
 
 
 
-CHAPTER III
 
 
-ANIMALS OR MEN?
 
 
 Of course we did not reach all these conclusions in a few moments,
@@ -1678,10 +1641,8 @@ halt.
 
 
 
-CHAPTER IV
 
 
-CAPTURED
 
 
 Our first view of the creatures proved beyond a question of a doubt
@@ -2079,10 +2040,8 @@ seriously injured, nor were any of our bones broken.
 
 
 
-CHAPTER V
 
 
-OUT OF THE STORM
 
 
 Shortly after we arrived at the village, they took away our watches,
@@ -2501,10 +2460,8 @@ awaiting the prisoner that they were bringing toward him.
 
 
 
-CHAPTER VI
 
 
-THE MOON MAID
 
 
 Orthis, who was becoming the almost constant companion of the chief,
@@ -2967,10 +2924,8 @@ indefinitely.
 
 
 
-CHAPTER VII
 
 
-A FIGHT AND A CHANCE
 
 
 After occupying the new village, Orthis and I were separated, he
@@ -3325,10 +3280,8 @@ swirling rain and wind.
 
 
 
-CHAPTER VIII
 
 
-A FIGHT WITH A TOR-HO
 
 
 Nah-ee-lah and I passed through the village of the No-vans
@@ -3790,10 +3743,8 @@ upon Earth I might not have been able to hold you when you fell.”
 
 
 
-CHAPTER IX
 
 
-AN ATTACK BY KALKARS
 
 
 The tunnel in which I found myself and along which Nah-ee-lah led me
@@ -4153,10 +4104,8 @@ racing toward me.
 
 
 
-CHAPTER X
 
 
-THE CITY OF KALKARS
 
 
 Now, indeed, did I have reason to curse the stupidity that had
@@ -4709,10 +4658,8 @@ he had given me when I told him what my world was called.
 
 
 
-CHAPTER XI
 
 
-A MEETING WITH KO-TAH
 
 
 The pursuers were not yet in sight, but I knew from the nearness of
@@ -5081,10 +5028,8 @@ prepared to accompany him to the palace of Sagroth the Jemadar.
 
 
 
-CHAPTER XII
 
 
-GROWING DANGER
 
 
 The palace of the Emperor stands, a magnificent pile, upon the
@@ -5551,10 +5496,8 @@ tah.
 
 
 
-CHAPTER XIII
 
 
-DEATH WITHIN AND WITHOUT!
 
 
 As rapidly as I could I made my way from the palace of Ko-tah, and
@@ -6052,10 +5995,8 @@ Jemadav, will address them. The fate of Laythe rests with you. Go.”
 
 
 
-CHAPTER XIV
 
 
-THE BARSOOM!
 
 
 The city was already in flames in many places, and though the people
@@ -6577,13 +6518,3 @@ toward me.
 
 “If we meet again,” he repeated, and departed, closing the stateroom
 door after him.
-
-
-
-
-
-
-
-
-
-
