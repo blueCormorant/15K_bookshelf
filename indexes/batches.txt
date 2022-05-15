@@ -2,7 +2,7 @@ x00,DONE
 x01,DONE
 x02
 x03
-x04
+x04,DONE
 x05
 x06
 x07
